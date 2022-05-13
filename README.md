@@ -1,16 +1,63 @@
-### Hi there 👋
+# Software Architect Experience Notes
 
-<!--
-**wirelessr/wirelessr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi folks.
 
-Here are some ideas to get you started:
+I'm a software architect, and every Monday I post a regular piece on [Medium](https://medium.com/@lazypro) about my work and studies. Here I will try to organize those contents into a publication by category.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to see the latest content, feel free to subscribe to my [Medium](https://medium.com/@lazypro).
+
+## MySQL
+
+- [How to avoid the race condition and the negative value](https://medium.com/interviewnoodle/how-to-avoid-the-race-condition-and-the-negative-value-3f397b2b08e4)
+- [Solve Phantom Read in MySQL](https://betterprogramming.pub/solve-phantom-read-in-mysql-a1c85f9a8c56)
+
+## MongoDB
+- [How to choose a MongoDB shard key](https://medium.com/interviewnoodle/how-to-choose-a-mongodb-shard-key-e4063b636c26)
+- [Data Persistence in MongoDB](https://towardsdev.com/data-persistence-in-mongodb-1ca91f88914)
+- [Read-after-write Consistency in MongoDB](https://towardsdev.com/read-after-write-consistency-in-mongodb-ea4cd91d0d3)
+- [Array Operation in MongoDB](https://towardsdev.com/array-operation-in-mongodb-2c6f6eb2114b)
+- [The Mystery of MongoDB Indexing](https://betterprogramming.pub/the-mystery-of-mongodb-indexing-af61766647dc)
+
+## Redis
+- [Redis helps avoiding racing conditions](https://lazypro.medium.com/redis-helps-avoiding-racing-conditions-b970ba3fdd58)
+- [Data Persistence in Redis](https://towardsdev.com/data-persistence-in-redis-2780c11d1623)
+- [Cardinality Counting in Redis](https://towardsdev.com/cardinality-counting-in-redis-3c3a472e2d9f)
+- [Redis as a Lock! Are You Sure?](https://betterprogramming.pub/redis-as-a-lock-are-you-sure-a870c9f22ad8)
+
+## Software Testing
+- [What’s Difference Between Unit Test and Integration Test](https://medium.com/interviewnoodle/whats-difference-between-unit-test-and-integration-test-aae6ef13220)
+
+## Architecture Pattern
+- CQRS
+    - [Shift from Monolith to CQRS](https://medium.com/interviewnoodle/shift-from-monolith-to-cqrs-a34bab75617e)
+- Distributed Transaction
+    - [Distributed Transaction Introduction](https://medium.com/interviewnoodle/distributed-transaction-introduction-1cd105c830a2)
+    - [Design Distributed Transaction With Practical Examples](https://betterprogramming.pub/design-distributed-transaction-with-practical-examples-7b1d93fddb63)
+- Event-driven Architecture
+    - [Design Patterns of Event-driven Architecture, Part 1](https://lazypro.medium.com/design-patterns-of-event-driven-architecture-bf0121cfda7b)
+    - [Design Patterns of Event-driven Architecture, Part 2](https://lazypro.medium.com/design-patterns-of-event-driven-architecture-part-2-ea4296dc58d)
+    - [Kafka vs. RabbitMQ](https://medium.com/interviewnoodle/kafka-vs-rabbitmq-bc9c8dc7768a)
+    - [Message Queue in Redis](https://selectfrom.dev/message-queue-in-redis-9efe0de2c39c)
+    - [Understand Temporal Coupling in Code](https://betterprogramming.pub/temporal-coupling-in-code-e74899f7a48f)
+    - [Implement Event-driven Architecture With Minimal Effort](https://betterprogramming.pub/implement-event-driven-architecture-with-minimal-effort-182c3bbe5524)
+- Resilient Engineering
+    - [Resilient Caching in Redis](https://towardsdev.com/resilient-caching-in-redis-a5b3c1a49f14)
+- Design Principle
+    - [Layered Architecture Clarification](https://lazypro.medium.com/layered-architecture-clarification-e55b69d60e98)
+    - [Are Design Pattern and Clean Code Useful?](https://lazypro.medium.com/are-design-pattern-and-clean-code-useful-cb1861846a58)
+    - [How to Design Software in a Clean Architecture Way](https://betterprogramming.pub/how-to-design-in-clean-architecture-way-part-1-36c3e558517b)
+    - [Designing Software Using Clean Architecture: Domain-Driven Design](https://betterprogramming.pub/how-to-design-in-clean-architecture-way-part-2-8524e76f2720)
+
+## Microservice
+- [Do you really need a microservice?](https://medium.com/interviewnoodle/do-you-really-need-a-microservice-91a48cbea8c1)
+- [Original Sin of Microservices, Part 1](https://medium.com/interviewnoodle/original-sin-of-microservices-part-1-90461ddcefb)
+- [Original Sin of Microservices, Part 2](https://lazypro.medium.com/original-sin-of-microservices-part-2-8856c0e8426d)
+- [Design an E-commerce Website From a High-level Perspective](https://betterprogramming.pub/design-an-e-commerce-website-from-a-high-level-perspective-184618741ee8)
+
+## Workflow
+
+- [Trunk-based Development Can Help](https://lazypro.medium.com/trunk-based-development-can-help-4bb425595c00)
+- [How Kanban Works and Why I Prefer It Over Scrum](https://betterprogramming.pub/improve-the-productivity-by-using-agile-development-778c7f069c6a)
+- [How to Prepare a Design Review Like an Expert?](https://betterprogramming.pub/how-to-prepare-a-design-review-like-an-expert-85d2ab85d7f5)
+- [Introduction to Feature Toggling— Types, Use Cases and Implementation](https://betterprogramming.pub/feature-toggle-introduction-68d58f5c709)
+- [Unleash vs. LaunchDarkly: A Look at Feature Toggling Solutions](https://betterprogramming.pub/unleash-vs-launchdarkly-c35f586ccf49)
