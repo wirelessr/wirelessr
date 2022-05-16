@@ -26,6 +26,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 
 ## Software Testing
 - [What’s Difference Between Unit Test and Integration Test](https://medium.com/interviewnoodle/whats-difference-between-unit-test-and-integration-test-aae6ef13220)
+- [Property-Based Testing Framework for Node](https://betterprogramming.pub/property-based-testing-framework-for-node-1ca702ad30bc)
 
 ## Architecture Pattern
 - CQRS
