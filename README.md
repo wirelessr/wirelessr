@@ -31,6 +31,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 ## Architecture Pattern
 - CQRS
     - [Shift from Monolith to CQRS](https://medium.com/interviewnoodle/shift-from-monolith-to-cqrs-a34bab75617e)
+    - [Solve Performance Bottleneck through CQRS](https://lazypro.medium.com/solve-performance-bottleneck-through-cqrs-3fd456df1551)
 - Distributed Transaction
     - [Distributed Transaction Introduction](https://medium.com/interviewnoodle/distributed-transaction-introduction-1cd105c830a2)
     - [Design Distributed Transaction With Practical Examples](https://betterprogramming.pub/design-distributed-transaction-with-practical-examples-7b1d93fddb63)
