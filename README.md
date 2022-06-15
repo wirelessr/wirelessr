@@ -23,6 +23,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Data Persistence in Redis](https://towardsdev.com/data-persistence-in-redis-2780c11d1623)
 - [Cardinality Counting in Redis](https://towardsdev.com/cardinality-counting-in-redis-3c3a472e2d9f)
 - [Redis as a Lock! Are You Sure?](https://betterprogramming.pub/redis-as-a-lock-are-you-sure-a870c9f22ad8)
+- [Explain Redlock in Depth](https://lazypro.medium.com/explain-redlock-in-depth-dba95c107102)
 
 ## Software Testing
 - [What’s Difference Between Unit Test and Integration Test](https://medium.com/interviewnoodle/whats-difference-between-unit-test-and-integration-test-aae6ef13220)
