@@ -25,6 +25,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Redis as a Lock! Are You Sure?](https://betterprogramming.pub/redis-as-a-lock-are-you-sure-a870c9f22ad8)
 - [Explain Redlock in Depth](https://lazypro.medium.com/explain-redlock-in-depth-dba95c107102)
 
+
 ## Software Testing
 - [What’s Difference Between Unit Test and Integration Test](https://medium.com/interviewnoodle/whats-difference-between-unit-test-and-integration-test-aae6ef13220)
 - [Property-Based Testing Framework for Node](https://betterprogramming.pub/property-based-testing-framework-for-node-1ca702ad30bc)
@@ -42,6 +43,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Design Patterns of Event-driven Architecture, Part 2](https://lazypro.medium.com/design-patterns-of-event-driven-architecture-part-2-ea4296dc58d)
     - [Kafka vs. RabbitMQ](https://medium.com/interviewnoodle/kafka-vs-rabbitmq-bc9c8dc7768a)
     - [Message Queue in Redis](https://selectfrom.dev/message-queue-in-redis-9efe0de2c39c)
+    - [Message Queue in Redis, Part 2](https://lazypro.medium.com/message-queue-in-redis-part-2-61c0d22735fe)
     - [Understand Temporal Coupling in Code](https://betterprogramming.pub/temporal-coupling-in-code-e74899f7a48f)
     - [Implement Event-driven Architecture With Minimal Effort](https://betterprogramming.pub/implement-event-driven-architecture-with-minimal-effort-182c3bbe5524)
 - Resilient Engineering
