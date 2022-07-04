@@ -53,8 +53,10 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Are Design Pattern and Clean Code Useful?](https://lazypro.medium.com/are-design-pattern-and-clean-code-useful-cb1861846a58)
     - [How to Design Software in a Clean Architecture Way](https://betterprogramming.pub/how-to-design-in-clean-architecture-way-part-1-36c3e558517b)
     - [Designing Software Using Clean Architecture: Domain-Driven Design](https://betterprogramming.pub/how-to-design-in-clean-architecture-way-part-2-8524e76f2720)
-- Scalibility
+    - [Combine Domain-Driven Design and Databases](https://lazypro.medium.com/combine-domain-driven-design-and-databases-747fa36ec642)
+- Non-functional Requirements, e.g., Scalibility, Consistency
     - [Scaling Web Service](https://betterprogramming.pub/scaling-web-service-b391557a1134)
+    - [Consistency between Cache and Database, Part 1](https://lazypro.medium.com/consistency-between-cache-and-database-part-1-f64f4a76720)
 
 ## Microservice
 - [Do you really need a microservice?](https://medium.com/interviewnoodle/do-you-really-need-a-microservice-91a48cbea8c1)
