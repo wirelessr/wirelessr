@@ -57,6 +57,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - Non-functional Requirements, e.g., Scalibility, Consistency
     - [Scaling Web Service](https://betterprogramming.pub/scaling-web-service-b391557a1134)
     - [Consistency between Cache and Database, Part 1](https://lazypro.medium.com/consistency-between-cache-and-database-part-1-f64f4a76720)
+    - [Consistency between Cache and Database, Part 2](https://lazypro.medium.com/consistency-between-cache-and-database-part-2-e28fc7f8a7c3)
 
 ## Microservice
 - [Do you really need a microservice?](https://medium.com/interviewnoodle/do-you-really-need-a-microservice-91a48cbea8c1)
