@@ -6,10 +6,12 @@ I'm a software architect, and every Monday I post a regular piece on [Medium](ht
 
 If you want to see the latest content, feel free to subscribe to my [Medium](https://medium.com/@lazypro).
 
-## MySQL
+## MySQL, Postgres
 
 - [How to avoid the race condition and the negative value](https://medium.com/interviewnoodle/how-to-avoid-the-race-condition-and-the-negative-value-3f397b2b08e4)
 - [Solve Phantom Read in MySQL](https://betterprogramming.pub/solve-phantom-read-in-mysql-a1c85f9a8c56)
+- [Understanding Partial Indexing](https://betterprogramming.pub/partial-indexing-faq-55d6f1e10c08)
+- [Understanding String Comparison of Databases](https://betterprogramming.pub/understanding-string-comparison-of-databases-9bde87f2006d)
 
 ## MongoDB
 - [How to choose a MongoDB shard key](https://medium.com/interviewnoodle/how-to-choose-a-mongodb-shard-key-e4063b636c26)
