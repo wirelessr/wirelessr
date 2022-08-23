@@ -48,6 +48,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Message Queue in Redis, Part 2](https://lazypro.medium.com/message-queue-in-redis-part-2-61c0d22735fe)
     - [Understand Temporal Coupling in Code](https://betterprogramming.pub/temporal-coupling-in-code-e74899f7a48f)
     - [Implement Event-driven Architecture With Minimal Effort](https://betterprogramming.pub/implement-event-driven-architecture-with-minimal-effort-182c3bbe5524)
+    - [Streaming Architecture Introduction](https://lazypro.medium.com/stream-processing-introduction-796f15061880)
 - Resilient Engineering
     - [Resilient Caching in Redis](https://towardsdev.com/resilient-caching-in-redis-a5b3c1a49f14)
 - Design Principle
