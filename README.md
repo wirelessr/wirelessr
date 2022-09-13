@@ -37,6 +37,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - CQRS
     - [Shift from Monolith to CQRS](https://medium.com/interviewnoodle/shift-from-monolith-to-cqrs-a34bab75617e)
     - [Solve Performance Bottleneck through CQRS](https://lazypro.medium.com/solve-performance-bottleneck-through-cqrs-3fd456df1551)
+    - [Reducing Database Loading](https://betterprogramming.pub/reducing-database-loading-b54f2d8edb39)
 - Distributed Transaction
     - [Distributed Transaction Introduction](https://medium.com/interviewnoodle/distributed-transaction-introduction-1cd105c830a2)
     - [Design Distributed Transaction With Practical Examples](https://betterprogramming.pub/design-distributed-transaction-with-practical-examples-7b1d93fddb63)
@@ -49,6 +50,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Understand Temporal Coupling in Code](https://betterprogramming.pub/temporal-coupling-in-code-e74899f7a48f)
     - [Implement Event-driven Architecture With Minimal Effort](https://betterprogramming.pub/implement-event-driven-architecture-with-minimal-effort-182c3bbe5524)
     - [Streaming Architecture Introduction](https://lazypro.medium.com/stream-processing-introduction-796f15061880)
+    - [Design Pattern of Streaming Enrichment](https://betterprogramming.pub/design-pattern-of-streaming-enrichment-17a9eb065eca)
 - Resilient Engineering
     - [Resilient Caching in Redis](https://towardsdev.com/resilient-caching-in-redis-a5b3c1a49f14)
 - Design Principle
@@ -61,6 +63,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Scaling Web Service](https://betterprogramming.pub/scaling-web-service-b391557a1134)
     - [Consistency between Cache and Database, Part 1](https://lazypro.medium.com/consistency-between-cache-and-database-part-1-f64f4a76720)
     - [Consistency between Cache and Database, Part 2](https://lazypro.medium.com/consistency-between-cache-and-database-part-2-e28fc7f8a7c3)
+    - [Scalability vs. Elasticity](https://betterprogramming.pub/scalability-vs-elasticity-cfae2d7a19b)
 
 ## Microservice
 - [Do you really need a microservice?](https://medium.com/interviewnoodle/do-you-really-need-a-microservice-91a48cbea8c1)
