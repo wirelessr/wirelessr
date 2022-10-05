@@ -19,6 +19,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Read-after-write Consistency in MongoDB](https://towardsdev.com/read-after-write-consistency-in-mongodb-ea4cd91d0d3)
 - [Array Operation in MongoDB](https://towardsdev.com/array-operation-in-mongodb-2c6f6eb2114b)
 - [The Mystery of MongoDB Indexing](https://betterprogramming.pub/the-mystery-of-mongodb-indexing-af61766647dc)
+- [Archiving MongoDB Changes to AWS S3](https://lazypro.medium.com/archiving-mongodb-changes-to-aws-s3-9537f793d5a8)
 
 ## Redis
 - [Redis helps avoiding racing conditions](https://lazypro.medium.com/redis-helps-avoiding-racing-conditions-b970ba3fdd58)
@@ -64,6 +65,9 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Consistency between Cache and Database, Part 1](https://lazypro.medium.com/consistency-between-cache-and-database-part-1-f64f4a76720)
     - [Consistency between Cache and Database, Part 2](https://lazypro.medium.com/consistency-between-cache-and-database-part-2-e28fc7f8a7c3)
     - [Scalability vs. Elasticity](https://betterprogramming.pub/scalability-vs-elasticity-cfae2d7a19b)
+- Data Infra
+    - [Evolutionary Data Infrastructure](https://betterprogramming.pub/evolutionary-data-infrastructure-4ddce2ec8a7e)
+    - [Evolutionary from Batching to Streaming](https://blog.devgenius.io/evolutionary-from-batching-to-streaming-7a9a7942922)
 
 ## Microservice
 - [Do you really need a microservice?](https://medium.com/interviewnoodle/do-you-really-need-a-microservice-91a48cbea8c1)
