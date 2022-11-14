@@ -52,6 +52,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Implement Event-driven Architecture With Minimal Effort](https://betterprogramming.pub/implement-event-driven-architecture-with-minimal-effort-182c3bbe5524)
     - [Streaming Architecture Introduction](https://lazypro.medium.com/stream-processing-introduction-796f15061880)
     - [Design Pattern of Streaming Enrichment](https://betterprogramming.pub/design-pattern-of-streaming-enrichment-17a9eb065eca)
+    - [Understanding Exactly-once Semantics](https://medium.com/@lazypro/understanding-exactly-once-semantics-338a56d8ba6a)
 - Resilient Engineering
     - [Resilient Caching in Redis](https://towardsdev.com/resilient-caching-in-redis-a5b3c1a49f14)
 - Design Principle
@@ -65,6 +66,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Consistency between Cache and Database, Part 1](https://lazypro.medium.com/consistency-between-cache-and-database-part-1-f64f4a76720)
     - [Consistency between Cache and Database, Part 2](https://lazypro.medium.com/consistency-between-cache-and-database-part-2-e28fc7f8a7c3)
     - [Scalability vs. Elasticity](https://betterprogramming.pub/scalability-vs-elasticity-cfae2d7a19b)
+    - [Solving Dogpile Effect](https://medium.com/@lazypro/solving-dogpile-effect-9d869174d302)
 - Data Infra
     - [Evolutionary Data Infrastructure](https://betterprogramming.pub/evolutionary-data-infrastructure-4ddce2ec8a7e)
     - [Evolutionary from Batching to Streaming](https://blog.devgenius.io/evolutionary-from-batching-to-streaming-7a9a7942922)
