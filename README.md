@@ -33,6 +33,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [What’s Difference Between Unit Test and Integration Test](https://medium.com/interviewnoodle/whats-difference-between-unit-test-and-integration-test-aae6ef13220)
 - [Property-Based Testing Framework for Node](https://betterprogramming.pub/property-based-testing-framework-for-node-1ca702ad30bc)
 - [Gitlab CI for Node Testing and Coverage](https://lazypro.medium.com/gitlab-ci-for-node-testing-and-coverage-d8f8c82f8c1e)
+- [How to Determine API Slow Downs](https://medium.com/better-programming/how-to-know-api-is-slowing-down-2957b9e1341d)
 
 ## Architecture Pattern
 - CQRS
@@ -70,6 +71,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - Data Infra
     - [Evolutionary Data Infrastructure](https://betterprogramming.pub/evolutionary-data-infrastructure-4ddce2ec8a7e)
     - [Evolutionary from Batching to Streaming](https://blog.devgenius.io/evolutionary-from-batching-to-streaming-7a9a7942922)
+    - [The Infrastructure Stack for Real-Time Data Analysis](https://medium.com/better-programming/real-time-data-infra-stack-73c597ed05ee)
 
 ## Microservice
 - [Do you really need a microservice?](https://medium.com/interviewnoodle/do-you-really-need-a-microservice-91a48cbea8c1)
