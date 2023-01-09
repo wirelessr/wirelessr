@@ -28,6 +28,8 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Redis as a Lock! Are You Sure?](https://betterprogramming.pub/redis-as-a-lock-are-you-sure-a870c9f22ad8)
 - [Explain Redlock in Depth](https://lazypro.medium.com/explain-redlock-in-depth-dba95c107102)
 
+## ElasticSearch
+- [Explaining Pagination in ElasticSearch](https://medium.com/starbugs/explaining-pagination-in-elasticsearch-3ac59656fdd2)
 
 ## Software Testing
 - [What’s Difference Between Unit Test and Integration Test](https://medium.com/interviewnoodle/whats-difference-between-unit-test-and-integration-test-aae6ef13220)
@@ -72,6 +74,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Evolutionary Data Infrastructure](https://betterprogramming.pub/evolutionary-data-infrastructure-4ddce2ec8a7e)
     - [Evolutionary from Batching to Streaming](https://blog.devgenius.io/evolutionary-from-batching-to-streaming-7a9a7942922)
     - [The Infrastructure Stack for Real-Time Data Analysis](https://medium.com/better-programming/real-time-data-infra-stack-73c597ed05ee)
+    - [Data Pipeline: From ETL to EL plus T](https://medium.com/@lazypro/data-pipeline-from-etl-to-el-plus-t-4cbf3d5a6c1e)
 
 ## Microservice
 - [Do you really need a microservice?](https://medium.com/interviewnoodle/do-you-really-need-a-microservice-91a48cbea8c1)
