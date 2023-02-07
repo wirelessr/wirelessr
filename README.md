@@ -89,3 +89,5 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [How to Prepare a Design Review Like an Expert?](https://betterprogramming.pub/how-to-prepare-a-design-review-like-an-expert-85d2ab85d7f5)
 - [Introduction to Feature Toggling— Types, Use Cases and Implementation](https://betterprogramming.pub/feature-toggle-introduction-68d58f5c709)
 - [Unleash vs. LaunchDarkly: A Look at Feature Toggling Solutions](https://betterprogramming.pub/unleash-vs-launchdarkly-c35f586ccf49)
+- [How to Make a Technical Selection?](https://medium.com/@lazypro/how-to-make-a-technical-selection-f1b21b24c503)
+- [Introducing Decision Making Process](https://medium.com/@lazypro/introducing-decision-making-process-cbb68e3b5f7)
