@@ -36,6 +36,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Property-Based Testing Framework for Node](https://betterprogramming.pub/property-based-testing-framework-for-node-1ca702ad30bc)
 - [Gitlab CI for Node Testing and Coverage](https://lazypro.medium.com/gitlab-ci-for-node-testing-and-coverage-d8f8c82f8c1e)
 - [How to Determine API Slow Downs](https://medium.com/better-programming/how-to-know-api-is-slowing-down-2957b9e1341d)
+- [How to Make Example-based Testing Better](https://medium.com/better-programming/how-to-make-example-based-testing-better-99dbfbbe5b8c)
 
 ## Architecture Pattern
 - CQRS
@@ -64,6 +65,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [How to Design Software in a Clean Architecture Way](https://betterprogramming.pub/how-to-design-in-clean-architecture-way-part-1-36c3e558517b)
     - [Designing Software Using Clean Architecture: Domain-Driven Design](https://betterprogramming.pub/how-to-design-in-clean-architecture-way-part-2-8524e76f2720)
     - [Combine Domain-Driven Design and Databases](https://lazypro.medium.com/combine-domain-driven-design-and-databases-747fa36ec642)
+    - [Another Way to Design Short URL Service](https://medium.com/mobile-app-circular/another-way-to-design-short-url-service-33da05a5548b)
 - Non-functional Requirements, e.g., Scalibility, Consistency
     - [Scaling Web Service](https://betterprogramming.pub/scaling-web-service-b391557a1134)
     - [Consistency between Cache and Database, Part 1](https://lazypro.medium.com/consistency-between-cache-and-database-part-1-f64f4a76720)
@@ -83,6 +85,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Original Sin of Microservices, Part 2](https://lazypro.medium.com/original-sin-of-microservices-part-2-8856c0e8426d)
 - [Design an E-commerce Website From a High-level Perspective](https://betterprogramming.pub/design-an-e-commerce-website-from-a-high-level-perspective-184618741ee8)
 - [Microservices start Here: Chassis Pattern](https://medium.com/@lazypro/microservices-start-here-chassis-pattern-f1be783c522b)
+- [Make any Website Authenticated](https://medium.com/@lazypro/make-any-website-authenticated-7ec69fd63c84)
 
 ## Workflow
 
