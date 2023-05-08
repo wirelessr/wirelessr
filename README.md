@@ -78,6 +78,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [The Infrastructure Stack for Real-Time Data Analysis](https://medium.com/better-programming/real-time-data-infra-stack-73c597ed05ee)
     - [Data Pipeline: From ETL to EL plus T](https://medium.com/@lazypro/data-pipeline-from-etl-to-el-plus-t-4cbf3d5a6c1e)
     - [Orchestrating DBT with Airflow](https://medium.com/@lazypro/orchestrating-dbt-with-airflow-72c49d4be62)
+    - [HTAP: Learning from Xiaohongshu](https://medium.com/@lazypro/htap-learning-from-xiaohongshu-8d8181d12195)
 
 ## Microservice
 - [Do you really need a microservice?](https://medium.com/interviewnoodle/do-you-really-need-a-microservice-91a48cbea8c1)
