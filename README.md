@@ -30,6 +30,8 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 
 ## ElasticSearch
 - [Explaining Pagination in ElasticSearch](https://medium.com/starbugs/explaining-pagination-in-elasticsearch-3ac59656fdd2)
+- [Boosting Elasticsearch Cluster Performance: 3 Proven Tips](https://medium.com/better-programming/boosting-elasticsearch-cluster-performance-3-proven-tips-9b718a9114bc)
+- [Best Practices of Using ElasticSearch](https://medium.com/@lazypro/best-practices-of-using-elasticsearch-2a2485a289c7)
 
 ## Software Testing
 - [What’s Difference Between Unit Test and Integration Test](https://medium.com/interviewnoodle/whats-difference-between-unit-test-and-integration-test-aae6ef13220)
