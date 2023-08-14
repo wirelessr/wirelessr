@@ -15,6 +15,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 
 ## MongoDB
 - [How to choose a MongoDB shard key](https://medium.com/interviewnoodle/how-to-choose-a-mongodb-shard-key-e4063b636c26)
+- [Don’t be Afraid of MongoDB Cross-shard Queries](https://medium.com/@lazypro/dont-be-afraid-of-mongodb-cross-shard-queries-2a7797a96528)
 - [Data Persistence in MongoDB](https://towardsdev.com/data-persistence-in-mongodb-1ca91f88914)
 - [Read-after-write Consistency in MongoDB](https://towardsdev.com/read-after-write-consistency-in-mongodb-ea4cd91d0d3)
 - [Array Operation in MongoDB](https://towardsdev.com/array-operation-in-mongodb-2c6f6eb2114b)
