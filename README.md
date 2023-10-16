@@ -21,6 +21,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Array Operation in MongoDB](https://towardsdev.com/array-operation-in-mongodb-2c6f6eb2114b)
 - [The Mystery of MongoDB Indexing](https://betterprogramming.pub/the-mystery-of-mongodb-indexing-af61766647dc)
 - [Archiving MongoDB Changes to AWS S3](https://lazypro.medium.com/archiving-mongodb-changes-to-aws-s3-9537f793d5a8)
+- [Squeezing out MongoDB’s available storage](https://medium.com/@lazypro/squeezing-out-mongodbs-available-storage-40c731a923c4)
 
 ## Redis
 - [Redis helps avoiding racing conditions](https://lazypro.medium.com/redis-helps-avoiding-racing-conditions-b970ba3fdd58)
@@ -71,6 +72,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Designing Software Using Clean Architecture: Domain-Driven Design](https://betterprogramming.pub/how-to-design-in-clean-architecture-way-part-2-8524e76f2720)
     - [Combine Domain-Driven Design and Databases](https://lazypro.medium.com/combine-domain-driven-design-and-databases-747fa36ec642)
     - [Another Way to Design Short URL Service](https://medium.com/mobile-app-circular/another-way-to-design-short-url-service-33da05a5548b)
+    - [When to Consider Clean Architecture: A Practical Guide](https://medium.com/@lazypro/when-to-consider-clean-architecture-a-practical-guide-6a21fccb5e6b)
 - Non-functional Requirements, e.g., Scalibility, Consistency
     - [Scaling Web Service](https://betterprogramming.pub/scaling-web-service-b391557a1134)
     - [Consistency between Cache and Database, Part 1](https://lazypro.medium.com/consistency-between-cache-and-database-part-1-f64f4a76720)
@@ -102,3 +104,4 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Unleash vs. LaunchDarkly: A Look at Feature Toggling Solutions](https://betterprogramming.pub/unleash-vs-launchdarkly-c35f586ccf49)
 - [How to Make a Technical Selection?](https://medium.com/@lazypro/how-to-make-a-technical-selection-f1b21b24c503)
 - [Introducing Decision Making Process](https://medium.com/@lazypro/introducing-decision-making-process-cbb68e3b5f7)
+- [Speed Up Software Development: Accelerate Your Code Creation](https://medium.com/@lazypro/speed-up-software-development-accelerate-your-code-creation-b83bb21b7243)
