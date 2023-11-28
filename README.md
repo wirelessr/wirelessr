@@ -12,6 +12,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Solve Phantom Read in MySQL](https://betterprogramming.pub/solve-phantom-read-in-mysql-a1c85f9a8c56)
 - [Understanding Partial Indexing](https://betterprogramming.pub/partial-indexing-faq-55d6f1e10c08)
 - [Understanding String Comparison of Databases](https://betterprogramming.pub/understanding-string-comparison-of-databases-9bde87f2006d)
+- [Seamless Transition: Handling Exhausted Auto-Increment IDs](https://medium.com/stackademic/seamless-transition-handling-exhausted-auto-increment-ids-b209d1e1e4c9)
 
 ## MongoDB
 - [How to choose a MongoDB shard key](https://medium.com/interviewnoodle/how-to-choose-a-mongodb-shard-key-e4063b636c26)
@@ -79,6 +80,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Consistency between Cache and Database, Part 2](https://lazypro.medium.com/consistency-between-cache-and-database-part-2-e28fc7f8a7c3)
     - [Scalability vs. Elasticity](https://betterprogramming.pub/scalability-vs-elasticity-cfae2d7a19b)
     - [Solving Dogpile Effect](https://medium.com/@lazypro/solving-dogpile-effect-9d869174d302)
+    - [Handling Stale Sets and Thundering Herds of Cache](https://medium.com/@lazypro/handling-stale-sets-and-thundering-herds-of-cache-28d52780fbca)
 - Data Infra
     - [Evolutionary Data Infrastructure](https://betterprogramming.pub/evolutionary-data-infrastructure-4ddce2ec8a7e)
     - [Evolutionary from Batching to Streaming](https://blog.devgenius.io/evolutionary-from-batching-to-streaming-7a9a7942922)
