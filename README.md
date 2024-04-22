@@ -36,6 +36,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Boosting Elasticsearch Cluster Performance: 3 Proven Tips](https://medium.com/better-programming/boosting-elasticsearch-cluster-performance-3-proven-tips-9b718a9114bc)
 - [Best Practices of Using ElasticSearch](https://medium.com/@lazypro/best-practices-of-using-elasticsearch-2a2485a289c7)
 - [Optimizing Elasticsearch Reindex without Downtime](https://medium.com/stackademic/optimizing-elasticsearch-reindex-without-downtime-0f70cb4949d6)
+- [Elasticsearch Index Lifecycle Management in a Nutshell](https://medium.com/@lazypro/elasticsearch-index-lifecycle-management-in-a-nutshell-278072a9aab6)
 
 ## Software Testing
 - [What’s Difference Between Unit Test and Integration Test](https://medium.com/interviewnoodle/whats-difference-between-unit-test-and-integration-test-aae6ef13220)
@@ -89,6 +90,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Data Pipeline: From ETL to EL plus T](https://medium.com/@lazypro/data-pipeline-from-etl-to-el-plus-t-4cbf3d5a6c1e)
     - [Orchestrating DBT with Airflow](https://medium.com/@lazypro/orchestrating-dbt-with-airflow-72c49d4be62)
     - [HTAP: Learning from Xiaohongshu](https://medium.com/@lazypro/htap-learning-from-xiaohongshu-8d8181d12195)
+    - [Accelerating API Responses with Smart Architecture](https://medium.com/stackademic/tidb-kappa-accelerating-api-responses-with-smart-architecture-5fe9a28f0f83)
 
 ## Microservice
 - [Do you really need a microservice?](https://medium.com/interviewnoodle/do-you-really-need-a-microservice-91a48cbea8c1)
