@@ -83,6 +83,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Scalability vs. Elasticity](https://betterprogramming.pub/scalability-vs-elasticity-cfae2d7a19b)
     - [Solving Dogpile Effect](https://medium.com/@lazypro/solving-dogpile-effect-9d869174d302)
     - [Handling Stale Sets and Thundering Herds of Cache](https://medium.com/@lazypro/handling-stale-sets-and-thundering-herds-of-cache-28d52780fbca)
+    - [Balancing Timeliness and Accuracy in Software Architecture](https://medium.com/@lazypro/balancing-timeliness-and-accuracy-in-software-architecture-35d097b634cd)
 - Data Infra
     - [Evolutionary Data Infrastructure](https://betterprogramming.pub/evolutionary-data-infrastructure-4ddce2ec8a7e)
     - [Evolutionary from Batching to Streaming](https://blog.devgenius.io/evolutionary-from-batching-to-streaming-7a9a7942922)
@@ -91,6 +92,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Orchestrating DBT with Airflow](https://medium.com/@lazypro/orchestrating-dbt-with-airflow-72c49d4be62)
     - [HTAP: Learning from Xiaohongshu](https://medium.com/@lazypro/htap-learning-from-xiaohongshu-8d8181d12195)
     - [Accelerating API Responses with Smart Architecture](https://medium.com/stackademic/tidb-kappa-accelerating-api-responses-with-smart-architecture-5fe9a28f0f83)
+    - [Data Silos: Understanding, Addressing, Integrating](https://medium.com/@lazypro/data-silos-understanding-addressing-integrating-0fe9cd998b2b)
 
 ## Microservice
 - [Do you really need a microservice?](https://medium.com/interviewnoodle/do-you-really-need-a-microservice-91a48cbea8c1)
