@@ -13,6 +13,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Understanding Partial Indexing](https://betterprogramming.pub/partial-indexing-faq-55d6f1e10c08)
 - [Understanding String Comparison of Databases](https://betterprogramming.pub/understanding-string-comparison-of-databases-9bde87f2006d)
 - [Seamless Transition: Handling Exhausted Auto-Increment IDs](https://medium.com/stackademic/seamless-transition-handling-exhausted-auto-increment-ids-b209d1e1e4c9)
+- [PostgreSQL Full-Text Search in a Nutshell](https://medium.com/@lazypro/postgresql-full-text-search-in-a-nutshell-1efc744267d3)
 
 ## MongoDB
 - [How to choose a MongoDB shard key](https://medium.com/interviewnoodle/how-to-choose-a-mongodb-shard-key-e4063b636c26)
