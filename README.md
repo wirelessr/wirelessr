@@ -43,8 +43,9 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [What’s Difference Between Unit Test and Integration Test](https://medium.com/interviewnoodle/whats-difference-between-unit-test-and-integration-test-aae6ef13220)
 - [Property-Based Testing Framework for Node](https://betterprogramming.pub/property-based-testing-framework-for-node-1ca702ad30bc)
 - [Gitlab CI for Node Testing and Coverage](https://lazypro.medium.com/gitlab-ci-for-node-testing-and-coverage-d8f8c82f8c1e)
-- [How to Determine API Slow Downs](https://medium.com/better-programming/how-to-know-api-is-slowing-down-2957b9e1341d)
 - [How to Make Example-based Testing Better](https://medium.com/better-programming/how-to-make-example-based-testing-better-99dbfbbe5b8c)
+- [How to Determine API Slow Downs, Part 1](https://medium.com/better-programming/how-to-know-api-is-slowing-down-2957b9e1341d)
+- [How to Determine API Slow Downs, Part 2](https://medium.com/@lazypro/how-to-determine-api-slow-downs-part-2-5c3858fdafda)
 
 ## Architecture Pattern
 - CQRS
