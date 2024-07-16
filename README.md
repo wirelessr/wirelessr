@@ -114,3 +114,4 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [How to Make a Technical Selection?](https://medium.com/@lazypro/how-to-make-a-technical-selection-f1b21b24c503)
 - [Introducing Decision Making Process](https://medium.com/@lazypro/introducing-decision-making-process-cbb68e3b5f7)
 - [Speed Up Software Development: Accelerate Your Code Creation](https://medium.com/@lazypro/speed-up-software-development-accelerate-your-code-creation-b83bb21b7243)
+- [A Paradigm Shift in Software Development: Leveraging GenAI for Direct Business Logic Processing](https://medium.com/@lazypro/a-paradigm-shift-in-software-development-leveraging-genai-for-direct-business-logic-processing-9929a724cc1c)
