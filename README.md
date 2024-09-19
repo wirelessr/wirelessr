@@ -6,6 +6,11 @@ I'm a software architect, and every Monday I post a regular piece on [Medium](ht
 
 If you want to see the latest content, feel free to subscribe to my [Medium](https://medium.com/@lazypro).
 
+## Driven Paradigm Shift
+
+- [Accelerating API Responses with Smart Architecture](https://medium.com/stackademic/tidb-kappa-accelerating-api-responses-with-smart-architecture-5fe9a28f0f83)
+- [How SHOPLINE Saves 40% Space in Main Database](https://medium.com/stackademic/how-shopline-saves-40-space-in-main-database-9504a1eb2472)
+
 ## MySQL, Postgres
 
 - [How to avoid the race condition and the negative value](https://medium.com/interviewnoodle/how-to-avoid-the-race-condition-and-the-negative-value-3f397b2b08e4)
@@ -118,7 +123,4 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [A Paradigm Shift in Software Development: Leveraging GenAI for Direct Business Logic Processing](https://medium.com/@lazypro/a-paradigm-shift-in-software-development-leveraging-genai-for-direct-business-logic-processing-9929a724cc1c)
 - [Paradigm Shift in Software Development, Part 2](https://medium.com/@lazypro/paradigm-shift-in-software-development-part-2-60703d518ac9)
 
-## Driven Paradigm Shift
 
-- [Accelerating API Responses with Smart Architecture](https://medium.com/stackademic/tidb-kappa-accelerating-api-responses-with-smart-architecture-5fe9a28f0f83)
-- [How SHOPLINE Saves 40% Space in Main Database](https://medium.com/stackademic/how-shopline-saves-40-space-in-main-database-9504a1eb2472)
