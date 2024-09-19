@@ -14,6 +14,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Understanding String Comparison of Databases](https://betterprogramming.pub/understanding-string-comparison-of-databases-9bde87f2006d)
 - [Seamless Transition: Handling Exhausted Auto-Increment IDs](https://medium.com/stackademic/seamless-transition-handling-exhausted-auto-increment-ids-b209d1e1e4c9)
 - [PostgreSQL Full-Text Search in a Nutshell](https://medium.com/@lazypro/postgresql-full-text-search-in-a-nutshell-1efc744267d3)
+- [How to Perform ALTER TABLE on Huge Table](https://medium.com/@lazypro/how-to-perform-alter-table-on-huge-table-4b38edd3ade8)
 
 ## MongoDB
 - [How to choose a MongoDB shard key](https://medium.com/interviewnoodle/how-to-choose-a-mongodb-shard-key-e4063b636c26)
@@ -78,6 +79,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Combine Domain-Driven Design and Databases](https://lazypro.medium.com/combine-domain-driven-design-and-databases-747fa36ec642)
     - [Another Way to Design Short URL Service](https://medium.com/mobile-app-circular/another-way-to-design-short-url-service-33da05a5548b)
     - [When to Consider Clean Architecture: A Practical Guide](https://medium.com/@lazypro/when-to-consider-clean-architecture-a-practical-guide-6a21fccb5e6b)
+    - [When to Consider Design Patterns](https://medium.com/@lazypro/when-to-consider-design-patterns-7d0507d1c429)
 - Non-functional Requirements, e.g., Scalibility, Consistency
     - [Scaling Web Service](https://betterprogramming.pub/scaling-web-service-b391557a1134)
     - [Consistency between Cache and Database, Part 1](https://lazypro.medium.com/consistency-between-cache-and-database-part-1-f64f4a76720)
@@ -93,7 +95,6 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Data Pipeline: From ETL to EL plus T](https://medium.com/@lazypro/data-pipeline-from-etl-to-el-plus-t-4cbf3d5a6c1e)
     - [Orchestrating DBT with Airflow](https://medium.com/@lazypro/orchestrating-dbt-with-airflow-72c49d4be62)
     - [HTAP: Learning from Xiaohongshu](https://medium.com/@lazypro/htap-learning-from-xiaohongshu-8d8181d12195)
-    - [Accelerating API Responses with Smart Architecture](https://medium.com/stackademic/tidb-kappa-accelerating-api-responses-with-smart-architecture-5fe9a28f0f83)
     - [Data Silos: Understanding, Addressing, Integrating](https://medium.com/@lazypro/data-silos-understanding-addressing-integrating-0fe9cd998b2b)
 
 ## Microservice
@@ -115,3 +116,9 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Introducing Decision Making Process](https://medium.com/@lazypro/introducing-decision-making-process-cbb68e3b5f7)
 - [Speed Up Software Development: Accelerate Your Code Creation](https://medium.com/@lazypro/speed-up-software-development-accelerate-your-code-creation-b83bb21b7243)
 - [A Paradigm Shift in Software Development: Leveraging GenAI for Direct Business Logic Processing](https://medium.com/@lazypro/a-paradigm-shift-in-software-development-leveraging-genai-for-direct-business-logic-processing-9929a724cc1c)
+- [Paradigm Shift in Software Development, Part 2](https://medium.com/@lazypro/paradigm-shift-in-software-development-part-2-60703d518ac9)
+
+## SHOPLINE Best Practices
+
+- [Accelerating API Responses with Smart Architecture](https://medium.com/stackademic/tidb-kappa-accelerating-api-responses-with-smart-architecture-5fe9a28f0f83)
+- [How SHOPLINE Saves 40% Space in Main Database](https://medium.com/stackademic/how-shopline-saves-40-space-in-main-database-9504a1eb2472)
