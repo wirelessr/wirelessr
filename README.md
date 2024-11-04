@@ -9,7 +9,8 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 ## Driven Paradigm Shift
 
 - [Accelerating API Responses with Smart Architecture](https://medium.com/stackademic/tidb-kappa-accelerating-api-responses-with-smart-architecture-5fe9a28f0f83)
-- [How SHOPLINE Saves 40% Space in Main Database](https://medium.com/stackademic/how-shopline-saves-40-space-in-main-database-9504a1eb2472)
+- [How SHOPLINE Saves 40% Space in Main Database, Part 1](https://medium.com/stackademic/how-shopline-saves-40-space-in-main-database-9504a1eb2472)
+- [How SHOPLINE Saves 40% Space in Main Database, Part 2](https://medium.com/@lazypro/how-shopline-saves-40-space-in-main-database-part-2-a2c3e3420022)
 
 ## MySQL, Postgres
 
