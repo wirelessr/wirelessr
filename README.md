@@ -102,6 +102,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Orchestrating DBT with Airflow](https://medium.com/@lazypro/orchestrating-dbt-with-airflow-72c49d4be62)
     - [HTAP: Learning from Xiaohongshu](https://medium.com/@lazypro/htap-learning-from-xiaohongshu-8d8181d12195)
     - [Data Silos: Understanding, Addressing, Integrating](https://medium.com/@lazypro/data-silos-understanding-addressing-integrating-0fe9cd998b2b)
+    - [Is there an Alternative to Debezium + Kafka?](https://medium.com/@lazypro/is-there-an-alternative-to-debezium-kafka-0ff112db83a9)
 
 ## Microservice
 - [Do you really need a microservice?](https://medium.com/interviewnoodle/do-you-really-need-a-microservice-91a48cbea8c1)
