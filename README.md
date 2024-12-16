@@ -124,5 +124,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Speed Up Software Development: Accelerate Your Code Creation](https://medium.com/@lazypro/speed-up-software-development-accelerate-your-code-creation-b83bb21b7243)
 - [A Paradigm Shift in Software Development: Leveraging GenAI for Direct Business Logic Processing](https://medium.com/@lazypro/a-paradigm-shift-in-software-development-leveraging-genai-for-direct-business-logic-processing-9929a724cc1c)
 - [Paradigm Shift in Software Development, Part 2](https://medium.com/@lazypro/paradigm-shift-in-software-development-part-2-60703d518ac9)
+- [What Exactly is Systems Thinking?](https://medium.com/@lazypro/what-exactly-is-systems-thinking-ee2c177b52cb)
+- [Deconstructing A/B Test](https://medium.com/@lazypro/deconstructing-a-b-test-801dfab1ff4b)
 
 
