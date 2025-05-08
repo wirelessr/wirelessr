@@ -103,6 +103,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [HTAP: Learning from Xiaohongshu](https://medium.com/@lazypro/htap-learning-from-xiaohongshu-8d8181d12195)
     - [Data Silos: Understanding, Addressing, Integrating](https://medium.com/@lazypro/data-silos-understanding-addressing-integrating-0fe9cd998b2b)
     - [Is there an Alternative to Debezium + Kafka?](https://medium.com/@lazypro/is-there-an-alternative-to-debezium-kafka-0ff112db83a9)
+    - [https://medium.com/@lazypro/evolution-of-rag-baseline-rag-graphrag-and-kag-93b6f221bde6](https://medium.com/@lazypro/evolution-of-rag-baseline-rag-graphrag-and-kag-93b6f221bde6)
 
 ## Microservice
 - [Do you really need a microservice?](https://medium.com/interviewnoodle/do-you-really-need-a-microservice-91a48cbea8c1)
@@ -111,6 +112,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Design an E-commerce Website From a High-level Perspective](https://betterprogramming.pub/design-an-e-commerce-website-from-a-high-level-perspective-184618741ee8)
 - [Microservices start Here: Chassis Pattern](https://medium.com/@lazypro/microservices-start-here-chassis-pattern-f1be783c522b)
 - [Make any Website Authenticated](https://medium.com/@lazypro/make-any-website-authenticated-7ec69fd63c84)
+- [Rethinking Microservice Decomposition: A Team-Driven Approach](https://medium.com/@lazypro/rethinking-microservice-decomposition-a-team-driven-approach-1aac05286c35)
 
 ## Workflow
 
@@ -120,6 +122,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Introduction to Feature Toggling— Types, Use Cases and Implementation](https://betterprogramming.pub/feature-toggle-introduction-68d58f5c709)
 - [Unleash vs. LaunchDarkly: A Look at Feature Toggling Solutions](https://betterprogramming.pub/unleash-vs-launchdarkly-c35f586ccf49)
 - [How to Make a Technical Selection?](https://medium.com/@lazypro/how-to-make-a-technical-selection-f1b21b24c503)
+- [Diagram as Code: from Mermaid to D2](https://medium.com/stackademic/diagram-as-code-from-mermaid-to-d2-13cb0ff49357)
 - [Introducing Decision Making Process](https://medium.com/@lazypro/introducing-decision-making-process-cbb68e3b5f7)
 - [Speed Up Software Development: Accelerate Your Code Creation](https://medium.com/@lazypro/speed-up-software-development-accelerate-your-code-creation-b83bb21b7243)
 - [A Paradigm Shift in Software Development: Leveraging GenAI for Direct Business Logic Processing](https://medium.com/@lazypro/a-paradigm-shift-in-software-development-leveraging-genai-for-direct-business-logic-processing-9929a724cc1c)
