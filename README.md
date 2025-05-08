@@ -103,7 +103,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [HTAP: Learning from Xiaohongshu](https://medium.com/@lazypro/htap-learning-from-xiaohongshu-8d8181d12195)
     - [Data Silos: Understanding, Addressing, Integrating](https://medium.com/@lazypro/data-silos-understanding-addressing-integrating-0fe9cd998b2b)
     - [Is there an Alternative to Debezium + Kafka?](https://medium.com/@lazypro/is-there-an-alternative-to-debezium-kafka-0ff112db83a9)
-    - [https://medium.com/@lazypro/evolution-of-rag-baseline-rag-graphrag-and-kag-93b6f221bde6](https://medium.com/@lazypro/evolution-of-rag-baseline-rag-graphrag-and-kag-93b6f221bde6)
+    - [Evolution of RAG: Baseline RAG, GraphRAG, and KAG](https://medium.com/@lazypro/evolution-of-rag-baseline-rag-graphrag-and-kag-93b6f221bde6)
 
 ## Microservice
 - [Do you really need a microservice?](https://medium.com/interviewnoodle/do-you-really-need-a-microservice-91a48cbea8c1)
