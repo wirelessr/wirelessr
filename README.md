@@ -12,6 +12,17 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [How SHOPLINE Saves 40% Space in Main Database, Part 1](https://medium.com/stackademic/how-shopline-saves-40-space-in-main-database-9504a1eb2472)
 - [How SHOPLINE Saves 40% Space in Main Database, Part 2](https://medium.com/@lazypro/how-shopline-saves-40-space-in-main-database-part-2-a2c3e3420022)
 
+## AI, Agentic AI
+
+- [Master Vibe Coding: AI-Powered Workflow](https://medium.com/stackademic/master-vibe-coding-ai-powered-workflow-e32a47bed467)
+- [How to Read Paper Efficiently](https://medium.com/@lazypro/how-to-read-paper-efficiently-5b6eadd120c6)
+- [How to Learn AI from Scratch](https://medium.com/stackademic/how-to-learn-ai-from-scratch-32c125cd39c3)
+- [Context Engineering: The Next Software Paradigm Shift](https://medium.com/@lazypro/context-engineering-the-next-software-paradigm-shift-5cb82dd31a14)
+
+## Career
+
+- [The Software Engineer’s Epic Career Adventure](https://medium.com/@lazypro/the-software-engineers-epic-career-adventure-5bfdb81d92f3)
+
 ## MySQL, Postgres
 
 - [How to avoid the race condition and the negative value](https://medium.com/interviewnoodle/how-to-avoid-the-race-condition-and-the-negative-value-3f397b2b08e4)
@@ -94,16 +105,16 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Solving Dogpile Effect](https://medium.com/@lazypro/solving-dogpile-effect-9d869174d302)
     - [Handling Stale Sets and Thundering Herds of Cache](https://medium.com/@lazypro/handling-stale-sets-and-thundering-herds-of-cache-28d52780fbca)
     - [Balancing Timeliness and Accuracy in Software Architecture](https://medium.com/@lazypro/balancing-timeliness-and-accuracy-in-software-architecture-35d097b634cd)
-- Data Infra
-    - [Evolutionary Data Infrastructure](https://betterprogramming.pub/evolutionary-data-infrastructure-4ddce2ec8a7e)
-    - [Evolutionary from Batching to Streaming](https://blog.devgenius.io/evolutionary-from-batching-to-streaming-7a9a7942922)
-    - [The Infrastructure Stack for Real-Time Data Analysis](https://medium.com/better-programming/real-time-data-infra-stack-73c597ed05ee)
-    - [Data Pipeline: From ETL to EL plus T](https://medium.com/@lazypro/data-pipeline-from-etl-to-el-plus-t-4cbf3d5a6c1e)
-    - [Orchestrating DBT with Airflow](https://medium.com/@lazypro/orchestrating-dbt-with-airflow-72c49d4be62)
-    - [HTAP: Learning from Xiaohongshu](https://medium.com/@lazypro/htap-learning-from-xiaohongshu-8d8181d12195)
-    - [Data Silos: Understanding, Addressing, Integrating](https://medium.com/@lazypro/data-silos-understanding-addressing-integrating-0fe9cd998b2b)
-    - [Is there an Alternative to Debezium + Kafka?](https://medium.com/@lazypro/is-there-an-alternative-to-debezium-kafka-0ff112db83a9)
-    - [Evolution of RAG: Baseline RAG, GraphRAG, and KAG](https://medium.com/@lazypro/evolution-of-rag-baseline-rag-graphrag-and-kag-93b6f221bde6)
+## Data Infra
+- [Evolutionary Data Infrastructure](https://betterprogramming.pub/evolutionary-data-infrastructure-4ddce2ec8a7e)
+- [Evolutionary from Batching to Streaming](https://blog.devgenius.io/evolutionary-from-batching-to-streaming-7a9a7942922)
+- [The Infrastructure Stack for Real-Time Data Analysis](https://medium.com/better-programming/real-time-data-infra-stack-73c597ed05ee)
+- [Data Pipeline: From ETL to EL plus T](https://medium.com/@lazypro/data-pipeline-from-etl-to-el-plus-t-4cbf3d5a6c1e)
+- [Orchestrating DBT with Airflow](https://medium.com/@lazypro/orchestrating-dbt-with-airflow-72c49d4be62)
+- [HTAP: Learning from Xiaohongshu](https://medium.com/@lazypro/htap-learning-from-xiaohongshu-8d8181d12195)
+- [Data Silos: Understanding, Addressing, Integrating](https://medium.com/@lazypro/data-silos-understanding-addressing-integrating-0fe9cd998b2b)
+- [Is there an Alternative to Debezium + Kafka?](https://medium.com/@lazypro/is-there-an-alternative-to-debezium-kafka-0ff112db83a9)
+- [Evolution of RAG: Baseline RAG, GraphRAG, and KAG](https://medium.com/@lazypro/evolution-of-rag-baseline-rag-graphrag-and-kag-93b6f221bde6)
 
 ## Microservice
 - [Do you really need a microservice?](https://medium.com/interviewnoodle/do-you-really-need-a-microservice-91a48cbea8c1)
@@ -114,7 +125,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Make any Website Authenticated](https://medium.com/@lazypro/make-any-website-authenticated-7ec69fd63c84)
 - [Rethinking Microservice Decomposition: A Team-Driven Approach](https://medium.com/@lazypro/rethinking-microservice-decomposition-a-team-driven-approach-1aac05286c35)
 
-## Workflow
+## Software Development Practices
 
 - [Trunk-based Development Can Help](https://lazypro.medium.com/trunk-based-development-can-help-4bb425595c00)
 - [How Kanban Works and Why I Prefer It Over Scrum](https://betterprogramming.pub/improve-the-productivity-by-using-agile-development-778c7f069c6a)
@@ -129,5 +140,4 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Paradigm Shift in Software Development, Part 2](https://medium.com/@lazypro/paradigm-shift-in-software-development-part-2-60703d518ac9)
 - [What Exactly is Systems Thinking?](https://medium.com/@lazypro/what-exactly-is-systems-thinking-ee2c177b52cb)
 - [Deconstructing A/B Test](https://medium.com/@lazypro/deconstructing-a-b-test-801dfab1ff4b)
-
 
