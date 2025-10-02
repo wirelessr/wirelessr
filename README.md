@@ -18,6 +18,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [How to Read Paper Efficiently](https://medium.com/@lazypro/how-to-read-paper-efficiently-5b6eadd120c6)
 - [How to Learn AI from Scratch](https://medium.com/stackademic/how-to-learn-ai-from-scratch-32c125cd39c3)
 - [Context Engineering: The Next Software Paradigm Shift](https://medium.com/@lazypro/context-engineering-the-next-software-paradigm-shift-5cb82dd31a14)
+- [AI Agents for Complex Codebase Analysis](https://blog.stackademic.com/ai-agents-for-complex-codebase-analysis-eef748fe6dfd)
 
 ## Career
 
@@ -64,6 +65,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [How to Make Example-based Testing Better](https://medium.com/better-programming/how-to-make-example-based-testing-better-99dbfbbe5b8c)
 - [How to Determine API Slow Downs, Part 1](https://medium.com/better-programming/how-to-know-api-is-slowing-down-2957b9e1341d)
 - [How to Determine API Slow Downs, Part 2](https://medium.com/@lazypro/how-to-determine-api-slow-downs-part-2-5c3858fdafda)
+- [Boost Microservice Testing with DNS Hijack](https://blog.stackademic.com/boost-microservice-testing-with-dns-hijack-61d655748e92)
 
 ## Architecture Pattern
 - CQRS
@@ -105,6 +107,10 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Solving Dogpile Effect](https://medium.com/@lazypro/solving-dogpile-effect-9d869174d302)
     - [Handling Stale Sets and Thundering Herds of Cache](https://medium.com/@lazypro/handling-stale-sets-and-thundering-herds-of-cache-28d52780fbca)
     - [Balancing Timeliness and Accuracy in Software Architecture](https://medium.com/@lazypro/balancing-timeliness-and-accuracy-in-software-architecture-35d097b634cd)
+- Design Patterns
+    - [Refactor Long Method with a Lightweight DAG](https://blog.stackademic.com/refactor-long-method-with-a-lightweight-dag-d5fda0ae2f04)
+ 
+
 ## Data Infra
 - [Evolutionary Data Infrastructure](https://betterprogramming.pub/evolutionary-data-infrastructure-4ddce2ec8a7e)
 - [Evolutionary from Batching to Streaming](https://blog.devgenius.io/evolutionary-from-batching-to-streaming-7a9a7942922)
@@ -140,4 +146,5 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Paradigm Shift in Software Development, Part 2](https://medium.com/@lazypro/paradigm-shift-in-software-development-part-2-60703d518ac9)
 - [What Exactly is Systems Thinking?](https://medium.com/@lazypro/what-exactly-is-systems-thinking-ee2c177b52cb)
 - [Deconstructing A/B Test](https://medium.com/@lazypro/deconstructing-a-b-test-801dfab1ff4b)
+- [n8n vs. Ansible: The Automation Choice](https://medium.com/stackademic/n8n-vs-ansible-the-automation-choice-8888c7fd6020)
 
