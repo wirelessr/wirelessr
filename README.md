@@ -19,6 +19,9 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [How to Learn AI from Scratch](https://medium.com/stackademic/how-to-learn-ai-from-scratch-32c125cd39c3)
 - [Context Engineering: The Next Software Paradigm Shift](https://medium.com/@lazypro/context-engineering-the-next-software-paradigm-shift-5cb82dd31a14)
 - [AI Agents for Complex Codebase Analysis](https://blog.stackademic.com/ai-agents-for-complex-codebase-analysis-eef748fe6dfd)
+- [Vibe Coding is Cooling Off, Fast](https://blog.stackademic.com/vibe-coding-is-cooling-off-fast-bd1ea2aa4adb)
+- [How Gen AI 2x My Developer Productivity](https://lazypro.medium.com/how-gen-ai-2x-my-developer-productivity-9738e22d3d68)
+- [Abandoning SDD: My New AI Coding Workflow](https://lazypro.medium.com/abandoning-sdd-my-new-ai-coding-workflow-c3ac8627d8be?postPublishedType=initial)
 
 ## Career
 
