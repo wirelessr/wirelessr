@@ -22,6 +22,8 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Vibe Coding is Cooling Off, Fast](https://blog.stackademic.com/vibe-coding-is-cooling-off-fast-bd1ea2aa4adb)
 - [How Gen AI 2x My Developer Productivity](https://lazypro.medium.com/how-gen-ai-2x-my-developer-productivity-9738e22d3d68)
 - [Abandoning SDD: My New AI Coding Workflow](https://lazypro.medium.com/abandoning-sdd-my-new-ai-coding-workflow-c3ac8627d8be?postPublishedType=initial)
+- [Hexagonal Architecture: The Best AI Vibe Coding Guide](https://medium.com/stackademic/hexagonal-architecture-the-best-ai-vibe-coding-guide-3ca8acad77d7)
+- [How to Fix the “AI Vibe” in Tech RCAs](https://lazypro.medium.com/how-to-fix-the-ai-vibe-in-tech-rcas-ff041f119f69)
 
 ## Career
 
@@ -150,4 +152,6 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [What Exactly is Systems Thinking?](https://medium.com/@lazypro/what-exactly-is-systems-thinking-ee2c177b52cb)
 - [Deconstructing A/B Test](https://medium.com/@lazypro/deconstructing-a-b-test-801dfab1ff4b)
 - [n8n vs. Ansible: The Automation Choice](https://medium.com/stackademic/n8n-vs-ansible-the-automation-choice-8888c7fd6020)
+- [100k RPS System Design: The Ultimate Interview Guide](https://blog.stackademic.com/100k-rps-system-design-the-ultimate-interview-guide-613ab1d9eb8e)
+- [Build Free Web Scrapers with GitHub Actions](https://blog.stackademic.com/build-free-web-scrapers-with-github-actions-d5e70b9c1102)
 
