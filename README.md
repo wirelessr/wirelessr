@@ -1,157 +1,243 @@
 # Software Architect Experience Notes
 
-Hi folks.
+Personal tech blog on software architecture, backend development, and data engineering.
 
-I'm a software architect, and every Monday I post a regular piece on [Medium](https://medium.com/@lazypro) about my work and studies. Here I will try to organize those contents into a publication by category.
+All articles are now hosted at [wirelessr.github.io](https://wirelessr.github.io).
 
-If you want to see the latest content, feel free to subscribe to my [Medium](https://medium.com/@lazypro).
+Browse by category: [Archives](https://wirelessr.github.io/archives/) | [Categories](https://wirelessr.github.io/categories/) | [Tags](https://wirelessr.github.io/tags/) | [RSS](https://wirelessr.github.io/atom.xml)
 
-## Driven Paradigm Shift
+## Architecture
 
-- [Accelerating API Responses with Smart Architecture](https://medium.com/stackademic/tidb-kappa-accelerating-api-responses-with-smart-architecture-5fe9a28f0f83)
-- [How SHOPLINE Saves 40% Space in Main Database, Part 1](https://medium.com/stackademic/how-shopline-saves-40-space-in-main-database-9504a1eb2472)
-- [How SHOPLINE Saves 40% Space in Main Database, Part 2](https://medium.com/@lazypro/how-shopline-saves-40-space-in-main-database-part-2-a2c3e3420022)
+- [100k RPS System Design: The Ultimate Interview Guide](https://wirelessr.github.io/Architecture/100k-RPS-System-Design-The-Ultimate-Interview-Guide/20260316/)
+- [Refactor Long Method with a Lightweight DAG](https://wirelessr.github.io/Architecture/Refactor-Long-Method-with-a-Lightweight-DAG/20250929/)
+- [How SHOPLINE Saves 40 Percent Space in Main Database, Part 2](https://wirelessr.github.io/Architecture/How-SHOPLINE-Saves-40-Space-in-Main-Database-Part-2/20240923/)
+- [How SHOPLINE Saves 40 Percent Space in Main Database](https://wirelessr.github.io/Architecture/How-SHOPLINE-Saves-40-Space-in-Main-Database/20240902/)
+- [When to Consider Design Patterns](https://wirelessr.github.io/Architecture/When-to-Consider-Design-Patterns/20240805/)
+- [Balancing Timeliness and Accuracy in Software Architecture](https://wirelessr.github.io/Architecture/Balancing-Timeliness-and-Accuracy-in-Software-Architecture/20240506/)
+- [Accelerating API Responses with Smart Architecture](https://wirelessr.github.io/Architecture/Accelerating-API-Responses-with-Smart-Architecture/20240311/)
+- [Netflix如何在Kappa架構下做回填(backfill)](https://wirelessr.github.io/Architecture/Backfill-Streaming-Data-Pipelines-in-Kappa-Architecture/20240119/)
+- [一文看懂Netflix處理hourly pipeline延遲](https://wirelessr.github.io/Architecture/How-Netflix-Handle-Hourly-Pipeline-Delay/20231129/)
+- [Handling Stale Sets and Thundering Herds of Cache](https://wirelessr.github.io/Architecture/Handling-Stale-Sets-and-Thundering-Herds-of-Cache/20231023/)
+- [8個提昇軟體開發速度的妙方](https://wirelessr.github.io/Architecture/8-Ways-to-Crank-Up-Speed-in-Software-Development/20230927/)
+- [When to Consider Clean Architecture: A Practical Guide](https://wirelessr.github.io/Architecture/When-to-Consider-Clean-Architecture-A-Practical-Guide/20230911/)
+- [Flink SQL Performance Tuning, Part 2](https://wirelessr.github.io/Architecture/Flink-SQL-Performance-Tuning-Part-2/20230703/)
+- [Flink SQL Performance Tuning, Part 1](https://wirelessr.github.io/Architecture/Flink-SQL-Performance-Tuning-Part-1/20230626/)
+- [Uber如何做到傑出的資料品質](https://wirelessr.github.io/Architecture/How-Uber-Achieves-Excellence-Data-Quality/20230526/)
+- [HTAP：從小紅書的案例學習NewSQL](https://wirelessr.github.io/Architecture/HTAP-learning-from-Xiaohongshu/20230505/)
+- [Shopify如何處理大促？](https://wirelessr.github.io/Architecture/How-Shopify-Black-Friday-Cyber-Monday/20230421/)
+- [Another Way to Design Short URL Service](https://wirelessr.github.io/Architecture/Another-Way-to-Design-Short-URL-Service/20230313/)
+- [Solving Dogpile Effect Using Python](https://wirelessr.github.io/Architecture/Solving-Dogpile-Effect-Using-Python/20221121/)
+- [Solving Dogpile Effect](https://wirelessr.github.io/Architecture/Solving-Dogpile-Effect/20221114/)
+- [What pattern is considered CQRS?](https://wirelessr.github.io/Architecture/What-pattern-is-considered-CQRS/20221107/)
+- [Understanding Exactly-once Semantics](https://wirelessr.github.io/Architecture/Understanding-Exactly-once-Semantics/20221031/)
+- [Reducing Database Loading](https://wirelessr.github.io/Architecture/Reducing-Database-Loading/20220912/)
+- [Scalability vs. Elasticity](https://wirelessr.github.io/Architecture/Scalability-vs-Elasticity/20220905/)
+- [Design Pattern of Streaming Enrichment](https://wirelessr.github.io/Architecture/Design-Pattern-of-Streaming-Enrichment/20220829/)
+- [Stream Processing Introduction](https://wirelessr.github.io/Architecture/Stream-Processing-Introduction/20220822/)
+- [Consistency between Cache and Database, Part 2](https://wirelessr.github.io/Architecture/Consistency-between-Cache-and-Database-Part-2/20220711/)
+- [Consistency between Cache and Database, Part 1](https://wirelessr.github.io/Architecture/Consistency-between-Cache-and-Database-Part-1/20220703/)
+- [Combine Domain-Driven Design and Databases](https://wirelessr.github.io/Architecture/Combine-Domain-Driven-Design-and-Databases/20220627/)
+- [Analyze How to Scale Web Services From Various Perspectives](https://wirelessr.github.io/Architecture/Analyze-How-to-Scale-Web-Services-From-Various-Perspectives/20220530/)
+- [Solve Performance Bottleneck through CQRS](https://wirelessr.github.io/Architecture/Solve-Performance-Bottleneck-through-CQRS/20220523/)
+- [Design Distributed Transaction With Practical Examples](https://wirelessr.github.io/Architecture/Design-Distributed-Transaction-With-Practical-Examples/20220314/)
+- [Implement Event-driven Architecture With Minimal Effort](https://wirelessr.github.io/Architecture/Implement-Event-driven-Architecture-With-Minimal-Effort/20220221/)
+- [Understand Temporal Coupling in Code](https://wirelessr.github.io/Architecture/Understand-Temporal-Coupling-in-Code/20220214/)
+- [Designing Software Using Clean Architecture: Domain-Driven Design](https://wirelessr.github.io/Architecture/Designing-Software-Using-Clean-Architecture-Domain-Driven-Design/20220131/)
+- [How to Design Software in a Clean Architecture Way](https://wirelessr.github.io/Architecture/How-to-Design-Software-in-a-Clean-Architecture-Way/20220124/)
+- [Shift from Monolith to CQRS](https://wirelessr.github.io/Architecture/Shift-from-Monolith-to-CQRS/20220103/)
+- [Are Design Pattern and Clean Code Useful?](https://wirelessr.github.io/Architecture/Are-Design-Pattern-and-Clean-Code-Useful/20211220/)
+- [Layered Architecture Clarification](https://wirelessr.github.io/Architecture/Layered-Architecture-Clarification/20211129/)
+- [Design Patterns of Event-driven Architecture Part 2](https://wirelessr.github.io/Architecture/Design-Patterns-of-Event-driven-Architecture-Part-2/20211027/)
+- [Kafka vs. RabbitMQ](https://wirelessr.github.io/Architecture/Kafka-vs-RabbitMQ/20211020/)
+- [Design Patterns of Event-driven Architecture](https://wirelessr.github.io/Architecture/Design-Patterns-of-Event-driven-Architecture/20211014/)
+- [Distributed Transaction Introduction](https://wirelessr.github.io/Architecture/Distributed-Transaction-Introduction/20211002/)
 
-## AI, Agentic AI
+## Database
 
-- [Master Vibe Coding: AI-Powered Workflow](https://medium.com/stackademic/master-vibe-coding-ai-powered-workflow-e32a47bed467)
-- [How to Read Paper Efficiently](https://medium.com/@lazypro/how-to-read-paper-efficiently-5b6eadd120c6)
-- [How to Learn AI from Scratch](https://medium.com/stackademic/how-to-learn-ai-from-scratch-32c125cd39c3)
-- [Context Engineering: The Next Software Paradigm Shift](https://medium.com/@lazypro/context-engineering-the-next-software-paradigm-shift-5cb82dd31a14)
-- [AI Agents for Complex Codebase Analysis](https://blog.stackademic.com/ai-agents-for-complex-codebase-analysis-eef748fe6dfd)
-- [Vibe Coding is Cooling Off, Fast](https://blog.stackademic.com/vibe-coding-is-cooling-off-fast-bd1ea2aa4adb)
-- [How Gen AI 2x My Developer Productivity](https://lazypro.medium.com/how-gen-ai-2x-my-developer-productivity-9738e22d3d68)
-- [Abandoning SDD: My New AI Coding Workflow](https://lazypro.medium.com/abandoning-sdd-my-new-ai-coding-workflow-c3ac8627d8be?postPublishedType=initial)
-- [Hexagonal Architecture: The Best AI Vibe Coding Guide](https://medium.com/stackademic/hexagonal-architecture-the-best-ai-vibe-coding-guide-3ca8acad77d7)
-- [How to Fix the “AI Vibe” in Tech RCAs](https://lazypro.medium.com/how-to-fix-the-ai-vibe-in-tech-rcas-ff041f119f69)
+- [PostgreSQL 17’s JSON_TABLE isn’t Particularly Powerful](https://wirelessr.github.io/Database/PostgreSQL-17s-JSON-TABLE-isnt-Particularly-Powerful/20241007/)
+- [How to Perform ALTER TABLE on Huge Table](https://wirelessr.github.io/Database/How-to-Perform-ALTER-TABLE-on-Huge-Table/20240826/)
+- [PostgreSQL Full-Text Search in a Nutshell](https://wirelessr.github.io/Database/PostgreSQL-Full-Text-Search-in-a-Nutshell/20240610/)
+- [Seamless Transition: Handling Exhausted Auto-Increment IDs](https://wirelessr.github.io/Database/Seamless-Transition-Handling-Exhausted-Auto-Increment-IDs/20231120/)
+- [Understanding Use Cases for Pattern Matching](https://wirelessr.github.io/Database/Understanding-Use-Cases-for-Pattern-Matching/20230828/)
+- [Playing Window Function in Postgres](https://wirelessr.github.io/Database/Playing-Window-Function-in-Postgres/20221226/)
+- [Understanding String Comparison of Databases](https://wirelessr.github.io/Database/Understanding-String-Comparison-of-Databases/20220815/)
+- [Understanding Partial Indexing](https://wirelessr.github.io/Database/Understanding-Partial-Indexing/20220808/)
+- [Solve Phantom Read in MySQL](https://wirelessr.github.io/Database/Solve-Phantom-Read-in-MySQL/20220509/)
+- [How to avoid the race condition and the negative value](https://wirelessr.github.io/Database/How-to-avoid-the-race-condition-and-the-negative-value/20210721/)
+
+## MongoDB
+
+- [Squeezing out MongoDB’s available storage](https://wirelessr.github.io/MongoDB/Squeezing-out-MongoDBs-available-storage/20231016/)
+- [Don’t be Afraid of MongoDB Cross-shard Queries](https://wirelessr.github.io/MongoDB/Dont-be-Afraid-of-MongoDB-Cross-shard-Queries/20230814/)
+- [Archiving MongoDB Changes to AWS S3](https://wirelessr.github.io/MongoDB/Archiving-MongoDB-Changes-to-AWS-S3/20220919/)
+- [The Mystery of MongoDB Indexing](https://wirelessr.github.io/MongoDB/The-Mystery-of-MongoDB-Indexing/20220425/)
+- [Array Operation in MongoDB](https://wirelessr.github.io/MongoDB/Array-Operation-in-MongoDB/20211227/)
+- [Unique Array in MongoDB Document](https://wirelessr.github.io/MongoDB/Unique-Array-in-MongoDB-Document/20211122/)
+- [Read-after-write Consistency in MongoDB](https://wirelessr.github.io/MongoDB/Read-after-write-Consistency-in-MongoDB/20211115/)
+- [Data Persistence in MongoDB](https://wirelessr.github.io/MongoDB/Data-Persistence-in-MongoDB/20211104/)
+- [How to choose a MongoDB shard key](https://wirelessr.github.io/MongoDB/How-to-choose-a-MongoDB-shard-key/20211025/)
+
+## Redis
+
+- [Turn Based Multiplayer Beer Game](https://wirelessr.github.io/Redis/Turn-Based-Multiplayer-Beer-Game/20240909/)
+- [Message Queue in Redis, Part 2](https://wirelessr.github.io/Redis/Message-Queue-in-Redis-Part-2/20220620/)
+- [Explain Redlock in Depth](https://wirelessr.github.io/Redis/Explain-Redlock-in-Depth/20220613/)
+- [Redis as a Lock! Are You Sure?](https://wirelessr.github.io/Redis/Redis-as-a-Lock-Are-You-Sure/20220502/)
+- [Resilient Caching in Redis](https://wirelessr.github.io/Redis/Resilient-Caching-in-Redis/20220110/)
+- [Cardinality Counting in Redis](https://wirelessr.github.io/Redis/Cardinality-Counting-in-Redis/20211213/)
+- [Message Queue in Redis](https://wirelessr.github.io/Redis/Message-Queue-in-Redis/20211118/)
+- [Data Persistence in Redis](https://wirelessr.github.io/Redis/Data-Persistence-in-Redis/20211101/)
+- [Redis helps avoiding racing conditions](https://wirelessr.github.io/Redis/Redis-helps-avoiding-racing-conditions/20210815/)
+
+## Elasticsearch
+
+- [Elasticsearch Index Lifecycle Management in a Nutshell](https://wirelessr.github.io/Elasticsearch/Elasticsearch-Index-Lifecycle-Management-in-a-Nutshell/20240422/)
+- [Optimizing Elasticsearch Reindex without Downtime](https://wirelessr.github.io/Elasticsearch/Optimizing-Elasticsearch-Reindex-without-Downtime/20231225/)
+- [Best Practices of Using ElasticSearch](https://wirelessr.github.io/Elasticsearch/Best-Practices-of-Using-ElasticSearch/20230605/)
+- [Boosting Elasticsearch Cluster Performance: 3 Proven Tips](https://wirelessr.github.io/Elasticsearch/Boosting-Elasticsearch-Cluster-Performance-3-Proven-Tips/20230522/)
+- [有效提昇Elasticsearch整座集群效能的三個小技巧](https://wirelessr.github.io/Elasticsearch/Boosting-Elasticsearch-Cluster-Performance/20230512/)
+- [Explaining Pagination in ElasticSearch](https://wirelessr.github.io/Elasticsearch/Explaining-Pagination-in-ElasticSearch/20221219/)
+
+## Data
+
+- [Benchmarking Lakehouse with TPC-DS](https://wirelessr.github.io/Data/Benchmarking-Lakehouse-with-TPC-DS/20250210/)
+- [Understanding Apache Paimon Concurrency Control](https://wirelessr.github.io/Data/Understanding-Apache-Paimon-Concurrency-Control/20250113/)
+- [Apache Paimon with Flink & Trino: A Streaming Lakehouse Playground](https://wirelessr.github.io/Data/Apache-Paimon-with-Flink-Trino-A-Streaming-Lakehouse-Playground/20241118/)
+- [Is there an Alternative to Debezium + Kafka?](https://wirelessr.github.io/Data/Is-there-an-Alternative-to-Debezium-Kafka/20241104/)
+- [Trino & Iceberg Made Easy: A Ready-to-Use Playground](https://wirelessr.github.io/Data/Trino-Iceberg-Made-Easy-A-Ready-to-Use-Playground/20240520/)
+- [Data Silos: Understanding, Addressing, Integrating](https://wirelessr.github.io/Data/Data-Silos-Understanding-Addressing-Integrating/20240513/)
+- [Getting Started with Flink SQL, Apache Iceberg and DynamoDB Catalog](https://wirelessr.github.io/Data/Getting-Started-with-Flink-SQL-Apache-Iceberg-and-DynamoDB-Catalog/20231218/)
+- [Building a SNOWPLOW Playground](https://wirelessr.github.io/Data/Building-a-SNOWPLOW-Playground/20230724/)
+- [HTAP: Learning from Xiaohongshu](https://wirelessr.github.io/Data/HTAP-Learning-from-Xiaohongshu-Medium/20230508/)
+- [Making Debezium 2.x Support Confluent Schema Registry](https://wirelessr.github.io/Data/Making-Debezium-2x-Support-Confluent-Schema-Registry/20230417/)
+- [Testing Apache Avro Compatibility](https://wirelessr.github.io/Data/Testing-Apache-Avro-Compatibility/20230410/)
+- [Orchestrating DBT with Airflow](https://wirelessr.github.io/Data/Orchestrating-DBT-with-Airflow/20230220/)
+- [Data Pipeline: From ETL to EL Plus T](https://wirelessr.github.io/Data/Data-Pipeline-From-ETL-to-EL-Plus-T/20230109/)
+- [The Infrastructure Stack for Real-Time Data Analysis](https://wirelessr.github.io/Data/The-Infrastructure-Stack-for-Real-Time-Data-Analysis/20221205/)
+- [Playing PyFlink in a Nutshell](https://wirelessr.github.io/Data/Playing-PyFlink-in-a-Nutshell/20221024/)
+- [Playing PyFlink from Scratch](https://wirelessr.github.io/Data/Playing-PyFlink-from-Scratch/20221017/)
+- [Building Apache Pinot and Presto](https://wirelessr.github.io/Data/Building-Apache-Pinot-and-Presto/20221010/)
+- [Evolutionary from Batching to Streaming](https://wirelessr.github.io/Data/Evolutionary-from-Batching-to-Streaming/20221003/)
+- [Evolutionary Data Infrastructure](https://wirelessr.github.io/Data/Evolutionary-Data-Infrastructure/20220926/)
+
+## Microservice
+
+- [Rethinking Microservice Decomposition: A Team-Driven Approach](https://wirelessr.github.io/Microservice/Rethinking-Microservice-Decomposition-A-Team-Driven-Approach/20250224/)
+- [Simplify Web App Development: Code Lite, Create Big!](https://wirelessr.github.io/Microservice/Simplify-Web-App-Development-Code-Lite-Create-Big/20240226/)
+- [Implementing API Versioning](https://wirelessr.github.io/Microservice/Implementing-API-Versioning/20230807/)
+- [Make any Website Authenticated](https://wirelessr.github.io/Microservice/Make-any-Website-Authenticated/20230320/)
+- [Microservices start Here: Chassis Pattern](https://wirelessr.github.io/Microservice/Microservices-start-Here-Chassis-Pattern/20230213/)
+- [Design an E-commerce Website From a High-level Perspective](https://wirelessr.github.io/Microservice/Design-an-E-commerce-Website-From-a-High-level-Perspective/20220418/)
+- [Original Sin of Microservices, Part 2](https://wirelessr.github.io/Microservice/Original-Sin-of-Microservices-Part-2/20220328/)
+- [Original Sin of Microservices, Part 1](https://wirelessr.github.io/Microservice/Original-Sin-of-Microservices-Part-1/20220321/)
+- [Do you really need a microservice?](https://wirelessr.github.io/Microservice/Do-you-really-need-a-microservice/20220117/)
+
+## AI
+
+- [Claude Code to Pi: Advanced AI Agent Migration Guide](https://wirelessr.github.io/AI/Claude-Code-to-Pi-Advanced-AI-Agent-Migration-Guide/20260720/)
+- [Claude Code to Pi: A 5x Cheaper AI Toolchain](https://wirelessr.github.io/AI/Claude-Code-to-Pi-A-5x-Cheaper-AI-Toolchain/20260629/)
+- [How to Fix the “AI Vibe” in Tech RCAs](https://wirelessr.github.io/AI/How-to-Fix-the-AI-Vibe-in-Tech-RCAs/20260608/)
+- [Stop Using Markdown with Claude Code](https://wirelessr.github.io/AI/Stop-Using-Markdown-with-Claude-Code/20260525/)
+- [Interesting, so we've evolved from the Agile Manifesto to the Agile Vibe Coding Manifesto.](https://wirelessr.github.io/AI/Interesting-so-weve-evolved-from-the-Agile-Manifesto-to-the-Agile-Vibe-Coding-Ma/20260321/)
+- [Hexagonal Architecture: The Best AI Vibe Coding Guide](https://wirelessr.github.io/AI/Hexagonal-Architecture-The-Best-AI-Vibe-Coding-Guide/20260302/)
+- [Claude Code vs Copilot: My 2026 AI Workflow](https://wirelessr.github.io/AI/Claude-Code-vs-Copilot-My-2026-AI-Workflow/20260216/)
+- [Abandoning SDD: My New AI Coding Workflow](https://wirelessr.github.io/AI/Abandoning-SDD-My-New-AI-Coding-Workflow/20251215/)
+- [Is AI Killing Traditional Org Structures?](https://wirelessr.github.io/AI/Is-AI-Killing-Traditional-Org-Structures/20251201/)
+- [How Gen AI 2x My Developer Productivity](https://wirelessr.github.io/AI/How-Gen-AI-2x-My-Developer-Productivity/20251110/)
+- [Vibe Coding is Cooling Off, Fast](https://wirelessr.github.io/AI/Vibe-Coding-is-Cooling-Off-Fast/20251027/)
+- [Kiro Workflow for Copilot, Claude & More](https://wirelessr.github.io/AI/Kiro-Workflow-for-Copilot-Claude-More/20250908/)
+- [AI Agents for Complex Codebase Analysis](https://wirelessr.github.io/AI/AI-Agents-for-Complex-Codebase-Analysis/20250901/)
+- [GitHub Copilot Agent: A Disappointing Review](https://wirelessr.github.io/AI/GitHub-Copilot-Agent-A-Disappointing-Review/20250825/)
+- [SpecForge: The CLI, Shell & Spec-Driven Agent](https://wirelessr.github.io/AI/SpecForge-The-CLI-Shell-Spec-Driven-Agent/20250811/)
+- [Context Engineering: The Next Software Paradigm Shift](https://wirelessr.github.io/AI/Context-Engineering-The-Next-Software-Paradigm-Shift/20250707/)
+- [How to Learn AI from Scratch](https://wirelessr.github.io/AI/How-to-Learn-AI-from-Scratch/20250616/)
+- [How to Read Paper Efficiently](https://wirelessr.github.io/AI/How-to-Read-Paper-Efficiently/20250602/)
+- [Master Vibe Coding: AI-Powered Workflow](https://wirelessr.github.io/AI/Master-Vibe-Coding-AI-Powered-Workflow/20250512/)
+- [Hands-On WrenAI Review: Text-to-SQL Powered by RAG](https://wirelessr.github.io/AI/Hands-On-WrenAI-Review-Text-to-SQL-Powered-by-RAG/20250421/)
+- [MCP Make Me Happy](https://wirelessr.github.io/AI/MCP-Make-Me-Happy/20250407/)
+- [Evolution of RAG: Baseline RAG, GraphRAG, and KAG](https://wirelessr.github.io/AI/Evolution-of-RAG-Baseline-RAG-GraphRAG-and-KAG/20250317/)
+- [NotebookLM Saved My Life](https://wirelessr.github.io/AI/NotebookLM-Saved-My-Life/20241028/)
+- [Dockerize Local RAG with Models](https://wirelessr.github.io/AI/Dockerize-Local-RAG-with-Models/20240916/)
+- [做一個務實的RAG (Pragmatic RAG)](https://wirelessr.github.io/AI/做一個務實的RAG-Pragmatic-RAG/20240819/)
+- [Making Gemini a Tarot Master](https://wirelessr.github.io/AI/Making-Gemini-a-Tarot-Master/20240401/)
+
+## Backend
+
+- [Build Free Web Scrapers with GitHub Actions](https://wirelessr.github.io/Backend/Build-Free-Web-Scrapers-with-GitHub-Actions/20260511/)
+- [Solving Gevent Pool Issues in Flask Apps](https://wirelessr.github.io/Backend/Solving-Gevent-Pool-Issues-in-Flask-Apps/20251229/)
+- [Python DAG: Retries, Rollbacks & Parallel Runs](https://wirelessr.github.io/Backend/Python-DAG-Retries-Rollbacks-Parallel-Runs/20251006/)
+- [n8n vs. Ansible: The Automation Choice](https://wirelessr.github.io/Backend/n8n-vs-Ansible-The-Automation-Choice/20250728/)
+- [3 Dev Tools That Transformed My Onboarding](https://wirelessr.github.io/Backend/3-Dev-Tools-That-Transformed-My-Onboarding/20250721/)
+- [Diagram as Code: from Mermaid to D2](https://wirelessr.github.io/Backend/Diagram-as-Code-from-Mermaid-to-D2/20250428/)
+- [Deconstructing A/B Test](https://wirelessr.github.io/Backend/Deconstructing-AB-Test/20241216/)
+- [What Exactly is Systems Thinking?](https://wirelessr.github.io/Backend/What-Exactly-is-Systems-Thinking/20241202/)
+- [Paradigm Shift in Software Development, Part 2](https://wirelessr.github.io/Backend/Paradigm-Shift-in-Software-Development-Part-2/20240729/)
+- [Paradigm Shift in Software Development: Leveraging GenAI for Direct Business Logic Processing](https://wirelessr.github.io/Backend/Paradigm-Shift-in-Software-Development-Leveraging-GenAI-for-Direct-Business-Logi/20240715/)
+- [Agile Evolution: Beyond Methods](https://wirelessr.github.io/Backend/Agile-Evolution-Beyond-Methods/20231204/)
+- [Speed Up Software Development: Accelerate Your Code Creation](https://wirelessr.github.io/Backend/Speed-Up-Software-Development-Accelerate-Your-Code-Creation/20231004/)
+- [Introducing Decision Making Process](https://wirelessr.github.io/Backend/Introducing-Decision-Making-Process/20230206/)
+- [How to Make a Technical Selection?](https://wirelessr.github.io/Backend/How-to-Make-a-Technical-Selection/20230123/)
+- [Unleash vs. LaunchDarkly: A Look at Feature Toggling Solutions](https://wirelessr.github.io/Backend/Unleash-vs-LaunchDarkly-A-Look-at-Feature-Toggling-Solutions/20220411/)
+- [Introduction to Feature Toggling— Types, Use Cases and Implementation](https://wirelessr.github.io/Backend/Introduction-to-Feature-Toggling-Types-Use-Cases-and-Implementation/20220404/)
+- [How to Prepare a Design Review Like an Expert?](https://wirelessr.github.io/Backend/How-to-Prepare-a-Design-Review-Like-an-Expert/20220228/)
+- [How Kanban Works and Why I Prefer It Over Scrum](https://wirelessr.github.io/Backend/How-Kanban-Works-and-Why-I-Prefer-It-Over-Scrum/20220207/)
+- [Trunk-based Development Can Help](https://wirelessr.github.io/Backend/Trunk-based-Development-Can-Help/20211111/)
+- [Socket.io with TLS](https://wirelessr.github.io/Backend/Socketio-with-TLS/20190225/)
+- [Client-side L10n](https://wirelessr.github.io/Backend/Client-side-L10n/20180627/)
+- [JavaScript Format String](https://wirelessr.github.io/Backend/JavaScript-Format-String/20180620/)
+
+## Testing
+
+- [Boost Microservice Testing with DNS Hijack](https://wirelessr.github.io/Testing/Boost-Microservice-Testing-with-DNS-Hijack/20250915/)
+- [How to Determine API Slow Downs, Part 2](https://wirelessr.github.io/Testing/How-to-Determine-API-Slow-Downs-Part-2/20240624/)
+- [How to Make Example-based Testing Better](https://wirelessr.github.io/Testing/How-to-Make-Example-based-Testing-Better/20230306/)
+- [How to Determine API Slow Downs](https://wirelessr.github.io/Testing/How-to-Determine-API-Slow-Downs/20221212/)
+- [Gitlab CI for Node Testing and Coverage](https://wirelessr.github.io/Testing/Gitlab-CI-for-Node-Testing-and-Coverage/20220606/)
+- [Property-Based Testing Framework for Node](https://wirelessr.github.io/Testing/Property-Based-Testing-Framework-for-Node/20220516/)
+- [What’s Difference Between Unit Test and Integration Test](https://wirelessr.github.io/Testing/Whats-Difference-Between-Unit-Test-and-Integration-Test/20211108/)
+
+## DevOps
+
+- [Build a small TA-Lib container image](https://wirelessr.github.io/DevOps/Build-a-small-TA-Lib-container-image/20210222/)
 
 ## Career
 
-- [The Software Engineer’s Epic Career Adventure](https://medium.com/@lazypro/the-software-engineers-epic-career-adventure-5bfdb81d92f3)
+- [The Software Engineer’s Epic Career Adventure](https://wirelessr.github.io/Career/The-Software-Engineers-Epic-Career-Adventure/20250623/)
+- [Why So Few Qualified Architects?](https://wirelessr.github.io/Career/Why-So-Few-Qualified-Architects/20240205/)
+- [Engineering Ladders](https://wirelessr.github.io/Career/Engineering-Ladders/20230428/)
+- [什麼是主任工程師？](https://wirelessr.github.io/Career/What-is-Staff-Engineer/20230425/)
+- [Engineer Happiness Matters](https://wirelessr.github.io/Career/Engineer-Happiness-Matters/20221128/)
+- [Books that Developers Should Read](https://wirelessr.github.io/Career/Books-that-Developers-Should-Read/20220307/)
+- [Journey from Software Developer to Software Architect](https://wirelessr.github.io/Career/Journey-from-Software-Developer-to-Software-Architect/20211206/)
+- [2021上半年後端/全端面試經歷](https://wirelessr.github.io/Career/2021上半年後端全端面試經歷/20210627/)
 
-## MySQL, Postgres
+## Golang
 
-- [How to avoid the race condition and the negative value](https://medium.com/interviewnoodle/how-to-avoid-the-race-condition-and-the-negative-value-3f397b2b08e4)
-- [Solve Phantom Read in MySQL](https://betterprogramming.pub/solve-phantom-read-in-mysql-a1c85f9a8c56)
-- [Understanding Partial Indexing](https://betterprogramming.pub/partial-indexing-faq-55d6f1e10c08)
-- [Understanding String Comparison of Databases](https://betterprogramming.pub/understanding-string-comparison-of-databases-9bde87f2006d)
-- [Seamless Transition: Handling Exhausted Auto-Increment IDs](https://medium.com/stackademic/seamless-transition-handling-exhausted-auto-increment-ids-b209d1e1e4c9)
-- [PostgreSQL Full-Text Search in a Nutshell](https://medium.com/@lazypro/postgresql-full-text-search-in-a-nutshell-1efc744267d3)
-- [How to Perform ALTER TABLE on Huge Table](https://medium.com/@lazypro/how-to-perform-alter-table-on-huge-table-4b38edd3ade8)
+- [Generating Avro Schemas from Go types](https://wirelessr.github.io/Golang/Generating-Avro-Schemas-from-Go-types/20240115/)
+- [Common interface for query functions in sql.DB and sql.Tx](https://wirelessr.github.io/Golang/Common-interface-for-query-functions-in-sqlDB-and-sqlTx/20211001/)
+- [Make SQL Scan result be map in golang](https://wirelessr.github.io/Golang/Make-SQL-Scan-result-be-map-in-golang/20210928/)
+- [Leetcode concurrency in golang總結](https://wirelessr.github.io/Golang/Leetcode-concurrency-in-golang總結/20210331/)
+- [Leetcode concurrency #1195 Fizz Buzz Multithreaded (in golang)](https://wirelessr.github.io/Golang/Leetcode-concurrency-1195-Fizz-Buzz-Multithreaded-in-golang/20210330/)
+- [Leetcode concurrency #1226 The Dining Philosophers (in golang)](https://wirelessr.github.io/Golang/Leetcode-concurrency-1226-The-Dining-Philosophers-in-golang/20210330/)
+- [Leetcode concurrency #1117 Building H2O (in golang)](https://wirelessr.github.io/Golang/Leetcode-concurrency-1117-Building-H2O-in-golang/20210329/)
+- [Leetcode concurrency #1114 Print in Order (in golang)](https://wirelessr.github.io/Golang/Leetcode-concurrency-1114-Print-in-Order-in-golang/20210326/)
+- [Leetcode concurrency #1115 Print FooBar Alternately (in golang)](https://wirelessr.github.io/Golang/Leetcode-concurrency-1115-Print-FooBar-Alternately-in-golang/20210326/)
+- [Leetcode concurrency #1116 Print Zero Even Odd (in golang)](https://wirelessr.github.io/Golang/Leetcode-concurrency-1116-Print-Zero-Even-Odd-in-golang/20210326/)
 
-## MongoDB
-- [How to choose a MongoDB shard key](https://medium.com/interviewnoodle/how-to-choose-a-mongodb-shard-key-e4063b636c26)
-- [Don’t be Afraid of MongoDB Cross-shard Queries](https://medium.com/@lazypro/dont-be-afraid-of-mongodb-cross-shard-queries-2a7797a96528)
-- [Data Persistence in MongoDB](https://towardsdev.com/data-persistence-in-mongodb-1ca91f88914)
-- [Read-after-write Consistency in MongoDB](https://towardsdev.com/read-after-write-consistency-in-mongodb-ea4cd91d0d3)
-- [Array Operation in MongoDB](https://towardsdev.com/array-operation-in-mongodb-2c6f6eb2114b)
-- [The Mystery of MongoDB Indexing](https://betterprogramming.pub/the-mystery-of-mongodb-indexing-af61766647dc)
-- [Archiving MongoDB Changes to AWS S3](https://lazypro.medium.com/archiving-mongodb-changes-to-aws-s3-9537f793d5a8)
-- [Squeezing out MongoDB’s available storage](https://medium.com/@lazypro/squeezing-out-mongodbs-available-storage-40c731a923c4)
+## Ruby
 
-## Redis
-- [Redis helps avoiding racing conditions](https://lazypro.medium.com/redis-helps-avoiding-racing-conditions-b970ba3fdd58)
-- [Data Persistence in Redis](https://towardsdev.com/data-persistence-in-redis-2780c11d1623)
-- [Cardinality Counting in Redis](https://towardsdev.com/cardinality-counting-in-redis-3c3a472e2d9f)
-- [Redis as a Lock! Are You Sure?](https://betterprogramming.pub/redis-as-a-lock-are-you-sure-a870c9f22ad8)
-- [Explain Redlock in Depth](https://lazypro.medium.com/explain-redlock-in-depth-dba95c107102)
+- [Building Ruby on Rails from Scratch, Day 3](https://wirelessr.github.io/Ruby/Building-Ruby-on-Rails-from-Scratch-Day-3/20220801/)
+- [Building Ruby on Rails from Scratch, Day 2](https://wirelessr.github.io/Ruby/Building-Ruby-on-Rails-from-Scratch-Day-2/20220725/)
+- [Building Ruby on Rails from Scratch](https://wirelessr.github.io/Ruby/Building-Ruby-on-Rails-from-Scratch/20220718/)
 
-## ElasticSearch
-- [Explaining Pagination in ElasticSearch](https://medium.com/starbugs/explaining-pagination-in-elasticsearch-3ac59656fdd2)
-- [Boosting Elasticsearch Cluster Performance: 3 Proven Tips](https://medium.com/better-programming/boosting-elasticsearch-cluster-performance-3-proven-tips-9b718a9114bc)
-- [Best Practices of Using ElasticSearch](https://medium.com/@lazypro/best-practices-of-using-elasticsearch-2a2485a289c7)
-- [Optimizing Elasticsearch Reindex without Downtime](https://medium.com/stackademic/optimizing-elasticsearch-reindex-without-downtime-0f70cb4949d6)
-- [Elasticsearch Index Lifecycle Management in a Nutshell](https://medium.com/@lazypro/elasticsearch-index-lifecycle-management-in-a-nutshell-278072a9aab6)
+## Misc
 
-## Software Testing
-- [What’s Difference Between Unit Test and Integration Test](https://medium.com/interviewnoodle/whats-difference-between-unit-test-and-integration-test-aae6ef13220)
-- [Property-Based Testing Framework for Node](https://betterprogramming.pub/property-based-testing-framework-for-node-1ca702ad30bc)
-- [Gitlab CI for Node Testing and Coverage](https://lazypro.medium.com/gitlab-ci-for-node-testing-and-coverage-d8f8c82f8c1e)
-- [How to Make Example-based Testing Better](https://medium.com/better-programming/how-to-make-example-based-testing-better-99dbfbbe5b8c)
-- [How to Determine API Slow Downs, Part 1](https://medium.com/better-programming/how-to-know-api-is-slowing-down-2957b9e1341d)
-- [How to Determine API Slow Downs, Part 2](https://medium.com/@lazypro/how-to-determine-api-slow-downs-part-2-5c3858fdafda)
-- [Boost Microservice Testing with DNS Hijack](https://blog.stackademic.com/boost-microservice-testing-with-dns-hijack-61d655748e92)
-
-## Architecture Pattern
-- CQRS
-    - [Shift from Monolith to CQRS](https://medium.com/interviewnoodle/shift-from-monolith-to-cqrs-a34bab75617e)
-    - [Solve Performance Bottleneck through CQRS](https://lazypro.medium.com/solve-performance-bottleneck-through-cqrs-3fd456df1551)
-    - [Reducing Database Loading](https://betterprogramming.pub/reducing-database-loading-b54f2d8edb39)
-- Distributed Transaction
-    - [Distributed Transaction Introduction](https://medium.com/interviewnoodle/distributed-transaction-introduction-1cd105c830a2)
-    - [Design Distributed Transaction With Practical Examples](https://betterprogramming.pub/design-distributed-transaction-with-practical-examples-7b1d93fddb63)
-- Event-driven Architecture
-    - [Design Patterns of Event-driven Architecture, Part 1](https://lazypro.medium.com/design-patterns-of-event-driven-architecture-bf0121cfda7b)
-    - [Design Patterns of Event-driven Architecture, Part 2](https://lazypro.medium.com/design-patterns-of-event-driven-architecture-part-2-ea4296dc58d)
-    - [Kafka vs. RabbitMQ](https://medium.com/interviewnoodle/kafka-vs-rabbitmq-bc9c8dc7768a)
-    - [Message Queue in Redis](https://selectfrom.dev/message-queue-in-redis-9efe0de2c39c)
-    - [Message Queue in Redis, Part 2](https://lazypro.medium.com/message-queue-in-redis-part-2-61c0d22735fe)
-    - [Understand Temporal Coupling in Code](https://betterprogramming.pub/temporal-coupling-in-code-e74899f7a48f)
-    - [Implement Event-driven Architecture With Minimal Effort](https://betterprogramming.pub/implement-event-driven-architecture-with-minimal-effort-182c3bbe5524)
-    - [Streaming Architecture Introduction](https://lazypro.medium.com/stream-processing-introduction-796f15061880)
-    - [Design Pattern of Streaming Enrichment](https://betterprogramming.pub/design-pattern-of-streaming-enrichment-17a9eb065eca)
-    - [Understanding Exactly-once Semantics](https://medium.com/@lazypro/understanding-exactly-once-semantics-338a56d8ba6a)
-    - [Flink SQL Performance Tuning, Part 1](https://medium.com/dev-genius/flink-sql-performance-tuning-part-1-f71a0a0ee91)
-    - [Flink SQL Performance Tuning, Part 2](https://medium.com/@lazypro/flink-sql-performance-tuning-part-2-c102177b1ce1)
-- Resilient Engineering
-    - [Resilient Caching in Redis](https://towardsdev.com/resilient-caching-in-redis-a5b3c1a49f14)
-- Design Principle
-    - [Layered Architecture Clarification](https://lazypro.medium.com/layered-architecture-clarification-e55b69d60e98)
-    - [Are Design Pattern and Clean Code Useful?](https://lazypro.medium.com/are-design-pattern-and-clean-code-useful-cb1861846a58)
-    - [How to Design Software in a Clean Architecture Way](https://betterprogramming.pub/how-to-design-in-clean-architecture-way-part-1-36c3e558517b)
-    - [Designing Software Using Clean Architecture: Domain-Driven Design](https://betterprogramming.pub/how-to-design-in-clean-architecture-way-part-2-8524e76f2720)
-    - [Combine Domain-Driven Design and Databases](https://lazypro.medium.com/combine-domain-driven-design-and-databases-747fa36ec642)
-    - [Another Way to Design Short URL Service](https://medium.com/mobile-app-circular/another-way-to-design-short-url-service-33da05a5548b)
-    - [When to Consider Clean Architecture: A Practical Guide](https://medium.com/@lazypro/when-to-consider-clean-architecture-a-practical-guide-6a21fccb5e6b)
-    - [When to Consider Design Patterns](https://medium.com/@lazypro/when-to-consider-design-patterns-7d0507d1c429)
-- Non-functional Requirements, e.g., Scalibility, Consistency
-    - [Scaling Web Service](https://betterprogramming.pub/scaling-web-service-b391557a1134)
-    - [Consistency between Cache and Database, Part 1](https://lazypro.medium.com/consistency-between-cache-and-database-part-1-f64f4a76720)
-    - [Consistency between Cache and Database, Part 2](https://lazypro.medium.com/consistency-between-cache-and-database-part-2-e28fc7f8a7c3)
-    - [Scalability vs. Elasticity](https://betterprogramming.pub/scalability-vs-elasticity-cfae2d7a19b)
-    - [Solving Dogpile Effect](https://medium.com/@lazypro/solving-dogpile-effect-9d869174d302)
-    - [Handling Stale Sets and Thundering Herds of Cache](https://medium.com/@lazypro/handling-stale-sets-and-thundering-herds-of-cache-28d52780fbca)
-    - [Balancing Timeliness and Accuracy in Software Architecture](https://medium.com/@lazypro/balancing-timeliness-and-accuracy-in-software-architecture-35d097b634cd)
-- Design Patterns
-    - [Refactor Long Method with a Lightweight DAG](https://blog.stackademic.com/refactor-long-method-with-a-lightweight-dag-d5fda0ae2f04)
- 
-
-## Data Infra
-- [Evolutionary Data Infrastructure](https://betterprogramming.pub/evolutionary-data-infrastructure-4ddce2ec8a7e)
-- [Evolutionary from Batching to Streaming](https://blog.devgenius.io/evolutionary-from-batching-to-streaming-7a9a7942922)
-- [The Infrastructure Stack for Real-Time Data Analysis](https://medium.com/better-programming/real-time-data-infra-stack-73c597ed05ee)
-- [Data Pipeline: From ETL to EL plus T](https://medium.com/@lazypro/data-pipeline-from-etl-to-el-plus-t-4cbf3d5a6c1e)
-- [Orchestrating DBT with Airflow](https://medium.com/@lazypro/orchestrating-dbt-with-airflow-72c49d4be62)
-- [HTAP: Learning from Xiaohongshu](https://medium.com/@lazypro/htap-learning-from-xiaohongshu-8d8181d12195)
-- [Data Silos: Understanding, Addressing, Integrating](https://medium.com/@lazypro/data-silos-understanding-addressing-integrating-0fe9cd998b2b)
-- [Is there an Alternative to Debezium + Kafka?](https://medium.com/@lazypro/is-there-an-alternative-to-debezium-kafka-0ff112db83a9)
-- [Evolution of RAG: Baseline RAG, GraphRAG, and KAG](https://medium.com/@lazypro/evolution-of-rag-baseline-rag-graphrag-and-kag-93b6f221bde6)
-
-## Microservice
-- [Do you really need a microservice?](https://medium.com/interviewnoodle/do-you-really-need-a-microservice-91a48cbea8c1)
-- [Original Sin of Microservices, Part 1](https://medium.com/interviewnoodle/original-sin-of-microservices-part-1-90461ddcefb)
-- [Original Sin of Microservices, Part 2](https://lazypro.medium.com/original-sin-of-microservices-part-2-8856c0e8426d)
-- [Design an E-commerce Website From a High-level Perspective](https://betterprogramming.pub/design-an-e-commerce-website-from-a-high-level-perspective-184618741ee8)
-- [Microservices start Here: Chassis Pattern](https://medium.com/@lazypro/microservices-start-here-chassis-pattern-f1be783c522b)
-- [Make any Website Authenticated](https://medium.com/@lazypro/make-any-website-authenticated-7ec69fd63c84)
-- [Rethinking Microservice Decomposition: A Team-Driven Approach](https://medium.com/@lazypro/rethinking-microservice-decomposition-a-team-driven-approach-1aac05286c35)
-
-## Software Development Practices
-
-- [Trunk-based Development Can Help](https://lazypro.medium.com/trunk-based-development-can-help-4bb425595c00)
-- [How Kanban Works and Why I Prefer It Over Scrum](https://betterprogramming.pub/improve-the-productivity-by-using-agile-development-778c7f069c6a)
-- [How to Prepare a Design Review Like an Expert?](https://betterprogramming.pub/how-to-prepare-a-design-review-like-an-expert-85d2ab85d7f5)
-- [Introduction to Feature Toggling— Types, Use Cases and Implementation](https://betterprogramming.pub/feature-toggle-introduction-68d58f5c709)
-- [Unleash vs. LaunchDarkly: A Look at Feature Toggling Solutions](https://betterprogramming.pub/unleash-vs-launchdarkly-c35f586ccf49)
-- [How to Make a Technical Selection?](https://medium.com/@lazypro/how-to-make-a-technical-selection-f1b21b24c503)
-- [Diagram as Code: from Mermaid to D2](https://medium.com/stackademic/diagram-as-code-from-mermaid-to-d2-13cb0ff49357)
-- [Introducing Decision Making Process](https://medium.com/@lazypro/introducing-decision-making-process-cbb68e3b5f7)
-- [Speed Up Software Development: Accelerate Your Code Creation](https://medium.com/@lazypro/speed-up-software-development-accelerate-your-code-creation-b83bb21b7243)
-- [A Paradigm Shift in Software Development: Leveraging GenAI for Direct Business Logic Processing](https://medium.com/@lazypro/a-paradigm-shift-in-software-development-leveraging-genai-for-direct-business-logic-processing-9929a724cc1c)
-- [Paradigm Shift in Software Development, Part 2](https://medium.com/@lazypro/paradigm-shift-in-software-development-part-2-60703d518ac9)
-- [What Exactly is Systems Thinking?](https://medium.com/@lazypro/what-exactly-is-systems-thinking-ee2c177b52cb)
-- [Deconstructing A/B Test](https://medium.com/@lazypro/deconstructing-a-b-test-801dfab1ff4b)
-- [n8n vs. Ansible: The Automation Choice](https://medium.com/stackademic/n8n-vs-ansible-the-automation-choice-8888c7fd6020)
-- [100k RPS System Design: The Ultimate Interview Guide](https://blog.stackademic.com/100k-rps-system-design-the-ultimate-interview-guide-613ab1d9eb8e)
-- [Build Free Web Scrapers with GitHub Actions](https://blog.stackademic.com/build-free-web-scrapers-with-github-actions-d5e70b9c1102)
+- [I think you might have misunderstood a few things.](https://wirelessr.github.io/Misc/I-think-you-might-have-misunderstood-a-few-things/20260517/)
+- [Replacing Medium with Hexo](https://wirelessr.github.io/Misc/Replacing-Medium-with-Hexo/20230424/)
+- [Hello Hexo with Next](https://wirelessr.github.io/Misc/Hello-Hexo-with-Next/20230419/)
+- [My 2022 Review: About Data-Centric](https://wirelessr.github.io/Misc/My-2022-Review-About-Data-Centric/20221230/)
+- [設計一個可以追蹤讚數的系統](https://wirelessr.github.io/Misc/設計一個可以追蹤讚數的系統/20210706/)
+- [設計一個自動補完的後端](https://wirelessr.github.io/Misc/設計一個自動補完的後端/20210706/)
+- [Game Prototype](https://wirelessr.github.io/Misc/Game-Prototype/20180614/)
+- [Hello Medium](https://wirelessr.github.io/Misc/Hello-Medium/20180613/)
 
