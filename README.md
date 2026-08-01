@@ -55,6 +55,7 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
 - [Cardinality Counting in Redis](https://towardsdev.com/cardinality-counting-in-redis-3c3a472e2d9f)
 - [Redis as a Lock! Are You Sure?](https://betterprogramming.pub/redis-as-a-lock-are-you-sure-a870c9f22ad8)
 - [Explain Redlock in Depth](https://lazypro.medium.com/explain-redlock-in-depth-dba95c107102)
+- [Resilient Caching in Redis](https://towardsdev.com/resilient-caching-in-redis-a5b3c1a49f14)
 
 ## ElasticSearch
 - [Explaining Pagination in ElasticSearch](https://medium.com/starbugs/explaining-pagination-in-elasticsearch-3ac59656fdd2)
@@ -93,8 +94,6 @@ If you want to see the latest content, feel free to subscribe to my [Medium](htt
     - [Understanding Exactly-once Semantics](https://medium.com/@lazypro/understanding-exactly-once-semantics-338a56d8ba6a)
     - [Flink SQL Performance Tuning, Part 1](https://medium.com/dev-genius/flink-sql-performance-tuning-part-1-f71a0a0ee91)
     - [Flink SQL Performance Tuning, Part 2](https://medium.com/@lazypro/flink-sql-performance-tuning-part-2-c102177b1ce1)
-- Resilient Engineering
-    - [Resilient Caching in Redis](https://towardsdev.com/resilient-caching-in-redis-a5b3c1a49f14)
 - Design Principle
     - [Layered Architecture Clarification](https://lazypro.medium.com/layered-architecture-clarification-e55b69d60e98)
     - [Are Design Pattern and Clean Code Useful?](https://lazypro.medium.com/are-design-pattern-and-clean-code-useful-cb1861846a58)
